@@ -1,0 +1,1147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>None but Christ, none but Christ Intimating, that in Him, who is the Lord of Lords, and Prince onely, is to be found, the full and absolute cure of mans misery.</title>
+            <author>Cotton, Clement.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 57 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19425</idno>
+            <idno type="STC">STC 5852</idno>
+            <idno type="STC">ESTC S117710</idno>
+            <idno type="EEBO-CITATION">99852921</idno>
+            <idno type="PROQUEST">99852921</idno>
+            <idno type="VID">18276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18276)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1600:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>None but Christ, none but Christ Intimating, that in Him, who is the Lord of Lords, and Prince onely, is to be found, the full and absolute cure of mans misery.</title>
+                  <author>Cotton, Clement.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fifth edition, with some new additions.</edition>
+               </editionStmt>
+               <extent>[116] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Io. Beale for Na. Newbery, and are to sold at the Star in Popes head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Clement Cotton.</note>
+                  <note>"The sicke mans A.B.C. In questions and answers." has separate dated title page; register is continuous.</note>
+                  <note>Signatures: A-D¹²  E¹⁰.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sick --  Prayer-books and devotions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:18276:1"/>
+                  <p>None but CHRIST, NONE BVT CHRIST.</p>
+                  <p>
+                     <hi>Intimating,</hi> THAT IN HIM, WHO is the Lord of Lords, and Prince onely, is to be found, the full and abſolute cure <hi>of Mans miſery.</hi>
+                  </p>
+                  <p>The fifth Edition, with ſome new Additions.</p>
+                  <q>
+                     <bibl>
+                        <hi>Acts 4.12.</hi>
+                     </bibl> Neither is there ſaluation in any other: for among men there is giuen none other Name vnder hea<g ref="char:EOLhyphen"/>uen, whereby we muſt be ſaued.</q>
+                  <p>LONDON Printed by <hi>Io. Beale</hi> for <hi>Na. Newbery,</hi> and are to be ſold at the Star in Popes head Alley. 1629.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:18276:2"/>
+                  <pb facs="tcp:18276:2"/>
+                  <head>TO THE RIGHT HONORABEL, ALLEN COTTON, Lord Maior of the City of London, <hi>all comfort in</hi> Chriſt.</head>
+                  <opener>
+                     <salute>Right Honourable:</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">A</seg>S Chriſt is ſaid to bee the Author and finiſher of our<note place="margin">Heb. 12.2.</note>
+                     <pb facs="tcp:18276:3"/> faith, ſo is he the pro<g ref="char:EOLhyphen"/>per cauſe of all ſpiri<g ref="char:EOLhyphen"/>tuall ioy and reioy<g ref="char:EOLhyphen"/>cing,<note place="margin">Ioh. 8, 5.6.</note> 
+                     <hi>Luk.</hi> 1.44. Chriſt alwayes brings with him all true health and happineſſe.<note place="margin">Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 4.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> By Chriſt, Gods iuſtice is ſatisfied, <hi>Epheſ.</hi> 5.2. his wrath appeaſed,<note place="margin">1 The. 1.10.</note> the curſe of the Law aboliſhed, <hi>Gal.</hi> 3.13 Sin,<note place="margin">1 Cor. 15.55, 56, 57.</note> Death, and Hell, vanquiſhed, the De<g ref="char:EOLunhyphen"/>uill ſubdued, <hi>Heb.</hi> 2.14. and our ſelues,
+<pb facs="tcp:18276:3"/> and ſoules, onely by Chriſt eternally ſa<g ref="char:EOLhyphen"/>ued.<note place="margin">2 Tim. 1.10.</note> Seeing Chriſt then is not aſhamed to own vs, <hi>Heb.</hi> 2.11. wee ſhould not bee aſhamed to owne him, no not if neede be,<note place="margin">Mar. 8.38.</note> before an adulte<g ref="char:EOLhyphen"/>rous and ſinfull gene<g ref="char:EOLhyphen"/>ration. But as in heart to beleeue in him,<note place="margin">Rom. 10.10.</note> ſo with mouth and tongue to confeſſe him: with our ſoule to magnifie him,<note place="margin">Luke 1.46.47.</note>
+                     <pb facs="tcp:18276:4"/> and with our ſpirit within vs euermore to be vttering foorth of his moſt worthy praiſes. To this end, I preſumed ſome yeers ſince, with the poore widdow, to caſt in<g ref="char:EOLhyphen"/>to the Lords Treaſu<g ref="char:EOLhyphen"/>rie, this ſmall Mite, called <hi>None but Chriſt:</hi> the which howſo<g ref="char:EOLhyphen"/>euer it hath beene of<g ref="char:EOLhyphen"/>ten imprinted, yet hitherto dedicated to none but vnto your
+<pb facs="tcp:18276:4"/> Honourable Selfe. The cauſes moouing me hereunto, are not a few. Eſpecially when I call to re<g ref="char:EOLhyphen"/>membrance that vn<g ref="char:EOLhyphen"/>fained loue, which at the firſt ſprang to<g ref="char:EOLhyphen"/>wards mee, from your deare Brethren, and my faithfull and worſhipfull good friends, M<hi rend="sup">r</hi> 
+                     <hi>William</hi> and Maſter <hi>Roger Cot<g ref="char:EOLhyphen"/>ton</hi> (both well repor<g ref="char:EOLhyphen"/>ted of for good
+<pb facs="tcp:18276:5"/> workes) and euer ſince their deceaſe, hath been moſt free<g ref="char:EOLhyphen"/>ly and firmely roo<g ref="char:EOLhyphen"/>ted and ſettled to<g ref="char:EOLhyphen"/>ward mee in your worthie ſelfe. And not onely ſo, but for many yeeres really expreſſed; to the no little comfort of mee and mine. In lieu whereof, Right Ho<g ref="char:EOLhyphen"/>norable, Lo here, by way of gratitude, and thankefulneſſe, a
+<pb facs="tcp:18276:5"/> little Balme,<note place="margin">Gen. 43.11</note> a little Honey, a little ſpices, Myrrh, &amp;c. of each (I ſay) a little, which out of my extreme pouertie,<note place="margin">2 Cor. 8.2.</note> I doe moſt willingly, ioyfully, and cheerefully pre<g ref="char:EOLhyphen"/>ſent your Honour withall, at your firſt initiation into your ſo great and weighty a calling: wherein, that as another hap<g ref="char:EOLhyphen"/>pie <hi>Boaz</hi> you may carry your ſelfe wor<g ref="char:EOLhyphen"/>thily
+<pb facs="tcp:18276:6"/> in Ephratah, and bee famous in this our<note n="*" place="margin">London, a plentifull ſtore-houſe, as of corpo<g ref="char:EOLhyphen"/>rall, ſo of ſpirituall bread.</note> Bethelem, there ſhall not bee wanting his poore prayers, who euer reſts</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Honors humbly</hi> at commandement, CLEMENT COTTON.</signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:18276:6"/>
+                  <head>TO THE READER.</head>
+                  <p>
+                     <seg rend="decorInit">A</seg>Mongst the ma<g ref="char:EOLhyphen"/>ny miſeries that haue light vpon vs by the fall of our firſt parents, thoſe of the ſoule are chiefeſt; and amongst them, this is not the leaſt, that though we be conuinced by the Word and Spirit, to be forlorne crea<g ref="char:EOLhyphen"/>tures, yet we naturally ſhun to take any knowledge thereof.</p>
+                  <pb facs="tcp:18276:7"/>
+                  <p>No man is rocked ſo fast aſleepe in the cradle of ſecu<g ref="char:EOLhyphen"/>ritie, but at one time or an<g ref="char:EOLhyphen"/>other, this alarum rings in his eares:<note place="margin">Rom. 3.19, 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Eccle 11 9. &amp; 12.14.</note> 
+                     <hi>Thou haſt ſin<g ref="char:EOLhyphen"/>ned, and therefore muſt come to iudgement.</hi> But who trembleth in himſelfe at the ſound thereof, that he might finde reſt in the day of trouble?<note place="margin">Hab. 3.16.</note>
+                  </p>
+                  <p>It cannot bee, but <hi>theſe troubled thoughts</hi> will now and then faſten vpon the moſt hard-hearted and impenitent ſinner;<note place="margin">Dan 5.6.</note> 
+                     <note place="margin">Act. 24.26.</note> 
+                     <hi>ſurely all things are not wel be<g ref="char:EOLhyphen"/>tweene</hi> God <hi>and me;</hi> and, <hi>what will become of me another day?</hi>
+                     <note place="margin">1 Pet. 4.10.</note> And yet
+<pb facs="tcp:18276:7"/> where is he for all that, who will preſently fall to <hi>ſear<g ref="char:EOLhyphen"/>ching</hi> &amp; <hi>iudging</hi> of him<g ref="char:EOLhyphen"/>ſelfe,<note place="margin">Lam. 3.40.</note> 
+                     <note place="margin">1 Cor. 11.3.</note> that he <hi>might not be iudged of the Lord?</hi> No, the heart of man is natural<g ref="char:EOLhyphen"/>ly ſwolne with ſuch a diuel<g ref="char:EOLhyphen"/>liſh pride,<note place="margin">Rom. 8.7, 8.</note> 
+                     <note place="margin">Iſai, 65.2.</note> that though hee know God is, and will bee, <hi>his Iudge,</hi>
+                     <note place="margin">Rom. 2.16.</note> yet will hee not make <hi>ſupplication to his Iudge.</hi>
+                     <note place="margin">Iob 9.15. 1 Pet. 5.5, 6</note> And albeit we know that GOD <hi>reſiſteth the proud,</hi> and hath decreed in himſelfe to ſtaine all the glory thereof;<note place="margin">Iſa. 23.9. Dan. 4.34.</note> yet <hi>walke we on ſtill in our pride, againſt him. But who was euer fierce againſt him and proſpered?</hi>
+                     <note place="margin">1 Cor. 10.22. Iob 9.4.</note>
+                  </p>
+                  <pb facs="tcp:18276:8"/>
+                  <p>Thou then that art as yet in thy naturall eſtate, I wiſh thee in the name of GOD, ſpeedily to examine thy ſelfe vpon thy bed:<note place="margin">Pſal. 6.4. Zeph. 2.1.</note> and betweene the Lord and thee, propound theſe que<g ref="char:EOLhyphen"/>ſtions to thy ſoule; <hi>Soule, what ſaiſt thou to the guilt of</hi> Adams <hi>ſinne?</hi>
+                     <note place="margin">Rom. 5.12.</note> 
+                     <hi>It is imputed to thee, I pray thee how ſhall wee anſwer it? Thou know<g ref="char:EOLhyphen"/>eſt that this guilt binds vs ouer to eternal death,</hi>
+                     <note place="margin">Rom. 5.16. &amp; 6.23. Pſal. 139.7. 2. Cor. 5.10.</note> 
+                     <hi>there is no fleeing for vs, from the face of the Iudge, what ſhall be<g ref="char:EOLhyphen"/>come of thee and me,</hi>
+                     <note place="margin">Act. 17.31.</note> 
+                     <hi>in the day of the Lords
+<pb facs="tcp:18276:8"/> wrath? Thou knoweſt, that all our righteouſnes is but as filthy clouts,</hi>
+                     <note place="margin">Iſai. 64.6. Iob 14.4. Pſal. 67.7.</note> 
+                     <hi>&amp; how ſhall wee be able to ſtand before the Lords pure eyes,</hi>
+                     <note place="margin">Hab. 1.13.</note> 
+                     <hi>which can be<g ref="char:EOLhyphen"/>hold no impurity? Thou knoweſt alſo that our ſinnes are aboue mea<g ref="char:EOLhyphen"/>ſure ſinfull, yea,</hi>
+                     <note place="margin">Ezra 9.6.</note> 
+                     <hi>farre exceeding the ſands of the ſea,</hi>
+                     <note place="margin">Rom 7.13.</note> 
+                     <hi>both for weight and number;</hi>
+                     <note place="margin">Pſal. 40.11. Pſal. 38.4.</note> 
+                     <hi>muſt they not needs then ſinke vs to hell, without recoue<g ref="char:EOLhyphen"/>ry? For Gods ſake (O my ſoule) let vs looke a<g ref="char:EOLhyphen"/>bout vs, &amp; whilſt ſpace,</hi>
+                     <note place="margin">Reuel. 221.</note> 
+                     <hi>place, and meanes are allotted vs,</hi>
+                     <note place="margin">Iſai. 55.6.</note> 
+                     <hi>ponder wee
+<pb facs="tcp:18276:9"/> ſeriouſly theſe things in time. Let vs, I pray thee, take vnto vs words, and now,</hi>
+                     <note place="margin">Hoſ. 14.2.</note> 
+                     <hi>euen now turne a<g ref="char:EOLhyphen"/>gaine vnto the LORD, from whom wee haue too too long,</hi>
+                     <note place="margin">Iſa. 53.6.</note> 
+                     <hi>moſt wo<g ref="char:EOLhyphen"/>fully erred: Beſeech we him, that he would take away all iniquity and receiue vs graciouſly, that wee may eu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r here<g ref="char:EOLhyphen"/>after render him the calues of our lips.</hi>
+                  </p>
+                  <p>Thus or in the like man<g ref="char:EOLhyphen"/>ner, ſhould euery one that meane to eſcape <hi>the iudge<g ref="char:EOLhyphen"/>ment of GOD,</hi>
+                     <note place="margin">Rom 2.30</note> and the iuſt <hi>damnation of hell,</hi>
+                     <note place="margin">Mat. 23.33.</note> queſtion and reaſon with
+<pb facs="tcp:18276:9"/> his owne ſoule. For it is not the <hi>guiltleſſe,</hi>
+                     <note place="margin">Luk. 15.18, 19. &amp; 18.13.</note> but the <hi>guiltie,</hi> that prizeth a par<g ref="char:EOLhyphen"/>don; it is not the <hi>whole,</hi> but the <hi>ſicke,</hi>
+                     <note place="margin">Mat 9.2.</note> that is glad of the Phyſician: So, if ſin make thee not ſicke at the very heart,<note place="margin">Act. 2.37.4.38.</note> thou wilt not eſteeme of Chriſt, nor of the ſaluation which hee hath brought for all <hi>broken-hearted ſinners,</hi>
+                     <note place="margin">Luk. 4.18.</note> 
+                     <hi>no more than of a ruſh.</hi>
+                     <note place="margin">Math. 22.5.</note>
+                  </p>
+                  <p>A little to helpe thee then, that haſt not yet felt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſpirituall ſickneſſe (and alſo ſomewhat to refreſh the memory of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe who haue) here is in a ſhort ſumme diſ<g ref="char:EOLhyphen"/>couered vnto thee, ſome of
+<pb facs="tcp:18276:10"/> the maladies of thy ſoule, ſhewing thee how Chriſt is both the Phyſician, and me<g ref="char:EOLhyphen"/>dicine of them ſeuerally, as the title giuen to the Booke, <hi>None but Chriſt, none but Chriſt,</hi> giues thee to vnderſtand.</p>
+                  <p>Touching the which, if thou wouldeſt I ſhould yeeld thee a reaſon; then know, that I tooke it not vp at randome; but as I found them the words, and thoſe the laſt words of a conſtant Martyr of Chriſt, <hi>Iohn Lambert</hi> by name; which (as I conceiue) beeing vt<g ref="char:EOLhyphen"/>tered by him, as the trium<g ref="char:EOLhyphen"/>phant voice of faith, after
+<pb facs="tcp:18276:10"/> that hee had, through the power of Chriſt, put to flight the feare of Hell, Sinne, and Death, &amp;c. (as by dou<g ref="char:EOLhyphen"/>bling of them may appeare) So by way of imitation, I thinke them (not tying any to ſillables) well beſeeming the thoughts, and ſpeeches alſo of euery Chriſtian, vp<g ref="char:EOLhyphen"/>on ſafe and ſure grounds, as in their dayly, ſo euen in their laſt conflicts to be ta<g ref="char:EOLhyphen"/>ken vp and vſed. Not as if heereby it were my mea<g ref="char:EOLhyphen"/>ning to exclude,<note place="margin">See Ioh. 3.16. Titus 3.5.</note> or ſhut out either the Father, or the ho<g ref="char:EOLhyphen"/>ly Ghoſt, from hauing an hand in the worke of our ſal<g ref="char:EOLhyphen"/>uation, as well as Chriſt:
+<pb facs="tcp:18276:11"/> but attributing the ſame to him onely,<note place="margin">Rom. 8.34</note> as to the ſole meritorious cauſe thereof: And ſo I bid thee hearti<g ref="char:EOLhyphen"/>ly farewell.</p>
+                  <closer>
+                     <signed>Thine in Chriſt, C.C.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:18276:11"/>
+                  <head>NONE BVT CHRIST.</head>
+                  <div type="part">
+                     <head>1 <hi>Fall.</hi>
+                     </head>
+                     <p>
+                        <seg rend="decorInit">I</seg> 
+                        <hi>Am fallen in</hi>
+                        <note n="a" place="margin">Rom. 5.12. Amos 7.2.5</note> 
+                        <hi>Adam, I am falne, I am fal<g ref="char:EOLhyphen"/>len, Oh! who ſhall raiſe mee?</hi>
+                     </p>
+                     <p>None but Chriſt, who as hee is ſet for thy <hi>vpri<g ref="char:EOLhyphen"/>ſing,</hi> Lke 2.34. ſo is hee<note n="b" place="margin">Heb. 7.25</note> perfectly able to<note n="c" place="margin">Ioh. 10.28, 29.</note> keep thee, <hi>that thou fall not a<g ref="char:EOLhyphen"/>gaine,</hi> from thine owne
+<pb facs="tcp:18276:12"/> ſtedfaſtneſſe, Iud. 24.</p>
+                  </div>
+                  <div type="part">
+                     <head>2 <hi>Guilt.</hi>
+                     </head>
+                     <p>
+                        <hi>By my fall I haue offen<g ref="char:EOLhyphen"/>ded au</hi>
+                        <note n="d" place="margin">Ier. 23.24. Pſa. 139.7.</note> 
+                        <hi>infinite Ma<g ref="char:EOLhyphen"/>iestie: and who ſhall plead for mee?</hi> 1 Samu<g ref="char:EOLhyphen"/>el 2.25.</p>
+                     <p>None but Chriſt, who beeing alſo an<note n="e" place="margin">Iſai. 63.1. Act. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0.28. Iſai. 53.5, 6</note> infinite Maieſty, Rom. 9.5. hath by his owne bloud, fully <hi>ſatisfied</hi> the iuſtice of his Father for thy offence this way committed a<g ref="char:EOLhyphen"/>gainſt him, 1 Pet. 2.24. Epheſians 5.2.<note n="f" place="margin">Iam. 4.3. Rom. 5.10. &amp; 8.7.</note>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>3 <hi>Enmity.</hi>
+                     </head>
+                     <p>
+                        <hi>This offence hath bred enmitie betweene God and me,</hi> Col. 1.20, 21. <hi>who is
+<pb facs="tcp:18276:12"/> meete to reconcile vs?</hi>
+                     </p>
+                     <p>None but Chriſt,<note place="margin">2 Cor 5.19.</note> who by his<note n="g" place="margin">Rom. 3.25. Col. 1.20.21.</note> blood hath not onely made per<g ref="char:EOLhyphen"/>fect peace betweene God and thee, but hath ſo ratified and confir<g ref="char:EOLhyphen"/>med the ſame,<note place="margin">Epheſ 2.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>6, 17.</note> that no<g ref="char:EOLhyphen"/>thing ſhall bee euer able to diſolue it.</p>
+                  </div>
+                  <div type="part">
+                     <head>4 <hi>Strangeneſſe.</hi>
+                     </head>
+                     <p>
+                        <hi>This enmity hath bred</hi>
+                        <note n="h" place="margin">Eph. 4.18.</note> 
+                        <hi>ſtrangeneſſe betweene God and mee,</hi> Coloſſ. 1.21 <hi>and who ſhall bring me into fellowſhip with him again?</hi>
+                        <note n="i" place="margin">Ioh. 1.3, 5, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, 7.</note>
+                     </p>
+                     <p>
+                        <note n="k" place="margin">1 Cor. 1.9. 1 Pet. 3.18.</note>None but Chriſt, hath who ſuffered for ſinnes, the iuſt for the uniuſt, not onely that
+<pb facs="tcp:18276:13"/> hee might bring thee to God, but hath alſo ſo<note n="l" place="margin">Rom. 5.2.</note> ſetled this fellowſhip betweene him and thee, (who art by faith ingraf<g ref="char:EOLhyphen"/>ted into him) that none ſhall bee euer able to breake it off againe,<note place="margin">Ioh. 1.12. Gal. 3.26, 27.</note> Ier. 32.40.<note place="margin">Rom 8.35.</note>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>5 <hi>Filth.</hi>
+                     </head>
+                     <p>
+                        <hi>But alas,</hi>
+                        <note n="m" place="margin">Iob 15.16. Leu. 13.45. Pſal. 51.5.</note> 
+                        <hi>I am vncleane, I am vncleane. For behold, I was borne in iniquitie, and in ſinne hath my mo<g ref="char:EOLhyphen"/>ther conceiued mee, and who now ſhall cleanſe mee?</hi> Iob 14.4.</p>
+                     <p>
+                        <note n="n" place="margin">Zac. 13.1.</note>None but Chriſt, who not onely is that Lambe of God, who ta<g ref="char:EOLhyphen"/>keth
+<pb facs="tcp:18276:13"/> away the<note n="o" place="margin">Signifying that original ſinne, which is the foun<g ref="char:EOLhyphen"/>taine of all. ſinne. <hi>See Luke 2.23.</hi>
+                        </note> ſinne or the world, Ioh. 1.29. but was alſo borne holy, and conceiued by the<note n="p" place="margin">And thus we find in our nature that holi<g ref="char:EOLhyphen"/>neſſe which by nature we want.</note> holy Ghoſt, Luke 1.35. to co<g ref="char:EOLhyphen"/>uer the impurity of thy conception and birth, Heb. 2.10.</p>
+                  </div>
+                  <div type="part">
+                     <head>6 <hi>Darkneſſe.</hi>
+                     </head>
+                     <p>And thus as a woefull wight,<note place="margin">Iſai. 60.2. Mat. 4.16. Ioh. 1.5. 1 Ioh. 5.19.</note> ſit I in double dark<g ref="char:EOLhyphen"/>neſſe, hauing iuſtly loſt by this my ſorrowfull downe<g ref="char:EOLhyphen"/>fall with the<note n="q" place="margin">2 Cor. 44. Deu. 29 20</note> light of Gods Image, <hi>Eph. 4.18.</hi> the light of Gods countenance; and who now ſhall bee a light vnto mee.</p>
+                     <p>
+                        <note n="r" place="margin">Luk. 1.79</note>
+                        <hi>None but Chriſt, who is come a light into
+<pb facs="tcp:18276:14"/> this world, to the end that whoſoeuer belee<g ref="char:EOLhyphen"/>ueth in him, ſhould not onely not abide in dark<g ref="char:EOLhyphen"/>neſſe,</hi>
+                        <note place="margin">Ioh. 12.46.</note> 
+                        <hi>but might alſo haue the light of life, Ioh. 8.12.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>7 <hi>Dead.</hi>
+                     </head>
+                     <p>
+                        <hi>Not onely am I</hi>
+                        <note n="ſ" place="margin">Ioh. 1.5.8. Epheſ. 5.8.</note> 
+                        <hi>dren<g ref="char:EOLhyphen"/>ched in this wofull darke<g ref="char:EOLhyphen"/>neſſe, but therein by nature I lie</hi>
+                        <note n="t" place="margin">Ephe. 2.5. Mat. 4.16.</note> 
+                        <hi>ſtarke dead in treſpaſ<g ref="char:EOLhyphen"/>ſes and ſinnes, who ſhall now quicken me?</hi>
+                     </p>
+                     <p>
+                        <note n="u" place="margin">Ioh. 5.25.</note>None but Chriſt, who is not onely come, that thou mighteſt haue <hi>life,</hi>
+                        <note place="margin">2 Tim. 1.1.</note> &amp; that alſo in abun<g ref="char:EOLhyphen"/>dance,<note place="margin">Ioh. 10.10.</note> but ſo to confirm thee in this life, (if thou be<g ref="char:EOLhyphen"/>leeue
+<pb facs="tcp:18276:14"/> in him) that thou ſhalt neuer dye, Ioh. 11.25. &amp; 14, 19. Beleeueſt thou this?</p>
+                  </div>
+                  <div type="part">
+                     <head>8 <hi>Corrupt.</hi>
+                     </head>
+                     <p>
+                        <hi>But I ſenſibly feele (to my vtter vndoing I feare) that the diuell hath ſhed in to my whole man,</hi>
+                        <note place="margin">Rom. 6.6. Col. 2.11.</note> 
+                        <hi>the ve<g ref="char:EOLhyphen"/>nome and poiſon of his curſed nature,</hi> Ioh, 8.44.<note place="margin">Rom. 7.24.</note> 
+                        <hi>who ſhall cure me of it?</hi>
+                     </p>
+                     <p>None but Chriſt, who came not onely to loſe the workes of the diuell, in thee,<note place="margin">1 Ioh 3.8.</note> but which more is, to make thee partaker of the diuine<note n="x" place="margin">Not of the ſubſtance, but of the diuine qua<g ref="char:EOLhyphen"/>lities.</note> nature, 2. Pet. 1.4. Heb. 12.10.</p>
+                  </div>
+                  <div type="part">
+                     <head>9 <hi>Bondage.</hi>
+                     </head>
+                     <pb facs="tcp:18276:15"/>
+                     <p>
+                        <hi>And to this vile corrupti<g ref="char:EOLhyphen"/>on, am I by nature a ſeruant and</hi>
+                        <note n="z" place="margin">Ioh. 8.34.</note> 
+                        <hi>wretched bond-man, who ſhall free mee from ſo wofull a ſlauery.</hi>
+                     </p>
+                     <p>
+                        <note place="margin">Rom. 7.15.</note>None but Chriſt, who came not onely to <hi>preach deliuerance</hi> to ſuch miſe<g ref="char:EOLhyphen"/>rable captiues as thou art,<note place="margin">Luke 4.18.</note> but that in ſetting thee free, thou mighteſt be<note n="a" place="margin">That is, that we might haue not a fained, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t a true liberty and freedom from all in<g ref="char:EOLhyphen"/>fernall foes.</note> free indeed, Ioh. 8.36.</p>
+                  </div>
+                  <div type="part">
+                     <head>10 <hi>Penury.</hi>
+                     </head>
+                     <p>
+                        <hi>A man may haue light, life, and liberty, and yet periſh for lacke of foode, who ſhall furniſh my poore</hi>
+                        <note n="b" place="margin">Pſa 106.15.</note> 
+                        <hi>affammiſhed ſoule with that?</hi> Reuel. 3.17.</p>
+                     <p>None but Chriſt, who
+<pb facs="tcp:18276:15"/> firſt (if thou beeſt a<g ref="char:EOLhyphen"/>thirſt) bids thee come to him and drinke of the water of life,<note place="margin">Ioh. 7.37.</note> and that<note n="c" place="margin">Iſa. 55.1. Reu. 22.17.</note> freely, not for a while to quench thy thirſt; but that in drinking of the water which hee ſhall giue thee, thou mighteſt<note n="d" place="margin">That is, ſuch ſhal ne<g ref="char:EOLhyphen"/>ver be ſo thirſty, but the ſpirit of grace, (as an euerliuing fountaine) will be at hand to ſa<g ref="char:EOLunhyphen"/>tisfie their thirſt, See <hi>Ioh. 7.38.</hi>
+                        </note> neuer be more athirſt, ſeeing it ſhall be in thee a well of water ſpringing vp into euerlaſting life, Ioh. 4.13.14. &amp; 7.38.</p>
+                     <p>And hee alſo is that bread of life, which came downe from heauen, Ioh. 6.48, 51. of which, if by faith thou ſpiritually ea<g ref="char:EOLhyphen"/>teſt, it ſhall not only pre<g ref="char:EOLhyphen"/>ſerue
+<pb facs="tcp:18276:16"/> thy ſoule from fa<g ref="char:EOLhyphen"/>miſhing and death, but ſhall cauſe it to liue for euer,<note place="margin">Ioh. 6.50.</note> Ioh. 6.51.</p>
+                  </div>
+                  <div type="part">
+                     <head>11 <hi>Naked.</hi>
+                     </head>
+                     <p>
+                        <hi>But yet my</hi>
+                        <note n="e" place="margin">Iſai. 64.6. Gen. 3.7. Reu. 3.17.18.</note> 
+                        <hi>filthy na<g ref="char:EOLhyphen"/>kedneſſe will appeare, who ſhall couer that?</hi>
+                     </p>
+                     <p>None but Chriſt,<note n="f" place="margin">Reu. 3.17</note> whoſe white raiment ſhall not onely<note n="g" place="margin">Rom. 4.6, 7.</note> couer the ſhame of thy naked<g ref="char:EOLhyphen"/>neſſe, that the<note n="h" place="margin">Hab. 1.13</note> pure eyes of God ſhall not<note n="i" place="margin">Num 23 21.</note> behold it, Reu. 3.17, 18. but therein alſo (hee ha<g ref="char:EOLhyphen"/>uing granted thee to be arrayed therewith) will preſent thee therein glo<g ref="char:EOLhyphen"/>rious to himſelfe with<g ref="char:EOLhyphen"/>out<note place="margin">Reu. 19.8.</note> 
+                        <note place="margin">Iude 24.</note>
+                        <pb facs="tcp:18276:16"/> ſpot or wrinckle, or any ſuch thing,<note place="margin">Col. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.22.</note> Epheſ. 5.27.</p>
+                  </div>
+                  <div type="part">
+                     <head>11 <hi>Curſe.</hi>
+                     </head>
+                     <p>
+                        <hi>Me thinkes I</hi>
+                        <note n="k" place="margin">Hab. 3.16.</note> 
+                        <hi>tremble and quake for feare, in my ſelfe, when I heare that terrible thunderbolt of the Law, Curſed is</hi>
+                        <note n="l" place="margin">Gal. 3.10.</note> 
+                        <hi>euery man that continueth not in</hi>
+                        <note n="m" place="margin">Deut. 27.26. &amp; 29.21</note> 
+                        <hi>all things which are written in the booke of the Law to doe them. Who ſhall free me from it?</hi>
+                     </p>
+                     <p>
+                        <note n="n" place="margin">Iſai. 53.4, 5, 6.</note>None but Chriſt, who hath not onely re<g ref="char:EOLhyphen"/>deemed thee from the curſe of the Law,<note place="margin">Gal. 3.13.</note> being made a curſe for thee, but hath brought thee
+<pb facs="tcp:18276:17"/> alſo within compaſſe of that promiſed true<note n="o" place="margin">Epheſ. 1.3</note> bleſ<g ref="char:EOLhyphen"/>ſedneſſe, made to faithful <hi>Abraham,</hi> Gal. 3.9.14.</p>
+                  </div>
+                  <div type="part">
+                     <head>13 <hi>Terror.</hi>
+                     </head>
+                     <p>Now whileſt I remaine thus held (as it were at Gods ſuite) vnder this terrible a<g ref="char:EOLhyphen"/>reſt, <hi>Curſed is euery one, &amp;c.</hi> mee thinkes I ſee how all the creatures in heauen and earth, <hi>Gen. 7.11.</hi> ſtand ready armed at his onely becke to reuenge the quar<g ref="char:EOLhyphen"/>rell of his couenant vpon mee,<note place="margin">Leu. 26.25.</note> 
+                        <note place="margin">Pſal. 76.7.</note> who is there in hea<g ref="char:EOLhyphen"/>uen or earth, that can ſet them againe at one with mee?</p>
+                     <p>
+                        <hi>None but Chriſt, who
+<pb facs="tcp:18276:17"/> hauing by his owne blood reconciled God himſelfe (who is the Lord of Hoſts,</hi>
+                        <note place="margin">Col. 1.20. Rom. 3.25.</note> 
+                        <hi>and ſo of all creatures) vnto thee hee hath much more re<g ref="char:EOLhyphen"/>conciled euery creature in heauen and earth vn<g ref="char:EOLhyphen"/>to thee.</hi>
+                        <note place="margin">Iſai. 11.6. Hoſe. 2.18.19.20.</note>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>14 <hi>Loſſe.</hi>
+                     </head>
+                     <p>Moreouer, whileſt in this caſe, a dayly,<note place="margin">Pro. 16.26.</note> and (in a manner) hourely neceſsitie lies vpon mee to vſe the be<g ref="char:EOLhyphen"/>nefit of foode, rayment, re<g ref="char:EOLhyphen"/>creation, ſleepe, &amp;c. yea of breathing in the very ayre, I am often thus ſecret<g ref="char:EOLhyphen"/>ly checked in conſcience for the ſame, as if the Lord
+<pb facs="tcp:18276:18"/> ſhould on this wiſe ſpeake vnto mee;<note place="margin">Hoſ. 2.8, 9. Mal. 2.2.</note> Friend, who gaue you leaue and liberty to vſe theſe my benefits, or by what right or title doe you enioy them, ſeeing you haue by your diſobedience forfeited backe againe to me the true and lawfull vſe I once gaue you of them?<note place="margin">Deut. 28. from 15. to 20. Gen. 1.29, 30.</note> In whom now, or by whom may I recouer the free, and ſo a comfortable vſe of them againe?</p>
+                     <p>
+                        <hi>By none, but in, and by Chriſt, who beeing come a ſecond</hi> Adam <hi>and the very true,</hi>
+                        <note place="margin">1 Cor. 15.47.</note> 
+                        <hi>and lawfull heyre of all things,</hi>
+                        <note place="margin">Hab. 1.2. &amp; 2.8.</note> 
+                        <hi>hath by the me<g ref="char:EOLhyphen"/>rit
+<pb facs="tcp:18276:18"/> of his ſufferings and obedience,</hi>
+                        <note place="margin">Rom. 5.19.</note> 
+                        <hi>recouered vnto thee (being once a member of his myſti<g ref="char:EOLhyphen"/>call body) a iuſt right and title as to God him<g ref="char:EOLhyphen"/>ſelfe,</hi>
+                        <note place="margin">Rom. 8.16, 17.</note> 
+                        <note place="margin">Ioh. 20.17.</note> 
+                        <hi>who is the Lord of all creatures,</hi>
+                        <note place="margin">1 Cor. 3.22 1 Tim 4.4. Tit. 1.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> 
+                        <hi>ſo a law<g ref="char:EOLhyphen"/>full and ſanctified vſe of the creatures them<g ref="char:EOLhyphen"/>ſelues: Reade Hoſea 2. from verſ. 18. to 23.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>15</hi> Wrath to come.</head>
+                     <p>But it much aſtoniſheth mee, when I reade what<note n="p" place="margin">Iſi. 30.27.28.</note> fearefull attributes are gi<g ref="char:EOLhyphen"/>uen vnto God; as that hee is called a conſuming fire,<note place="margin">Heb. 12.29.</note> Euerlaſting burnings,<note place="margin">Iſai. 33.14.</note> and that when fire is kindled in
+<pb facs="tcp:18276:19"/> his wrath, it ſhall burne to the bottome of hell, <hi>Deut. 32.22.</hi> Alas, if his wrath be kindled but a litile,<note place="margin">Pſal. 2.12.</note> 
+                        <note n="q" place="margin">Pſa. 76.7.</note> who ſhall fence me from it?</p>
+                     <p>
+                        <note n="r" place="margin">Heb. 5.7. Mat. 26.38</note>
+                        <hi>None but Chriſt, who not only ſaueth and deliuereth thee from the</hi> wrath <hi>to come,</hi>
+                        <note place="margin">1 The. 1.10.</note> 
+                        <hi>Rom. 5.9. but more then that, giues thee eternall life.</hi>
+                        <note place="margin">Ioh. 10.20.</note>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>16</hi> Deaths ſting.</head>
+                     <p>Yet death hath a<note n="ſ" place="margin">1 Cor. 15.56.</note> dead<g ref="char:EOLhyphen"/>ly ſting wherewith to ſtab mee to the heart, which is ſinne; who ſhall free mee from deaths<note n="t" place="margin">Reu. 21.8</note> deadly blow? <hi>Rom. 6.23.</hi>
+                     </p>
+                     <p>
+                        <note n="u" place="margin">Re. 20 14.</note>
+                        <hi>None but Chriſt, in whom thou haſt not on<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:18276:19"/> conqueſt ouer ſinne and death,</hi>
+                        <note place="margin">1 Cor. 15.57</note> 
+                        <hi>hee hauing</hi> through death,<note n="x" place="margin">Heb. 2.14.</note> deſtroyed him that had the power of death, <hi>which is the di<g ref="char:EOLhyphen"/>uell; bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> hath now brought</hi> imm<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>tality and life <hi>(for thee)</hi> to light by the Goſpell.<note place="margin">2 Tim. 1.10</note>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>17 <hi>Vnbeleefe.</hi>
+                     </head>
+                     <p>Beſides all this, my conſci<g ref="char:EOLhyphen"/>ence conuinceth me of ſin,<note place="margin">Ioh. 16.8.9.</note> in that I beleeue not in Chriſt: Oh for one graine of that precious faith!<note place="margin">Luk. 17.6.</note> that faith of of Gods elect; who ſhall worke it in me?</p>
+                     <p>
+                        <hi>None but Chriſt, who is therefore ſaid to be both the Author and finiſher</hi>
+                        <note place="margin">Heb. 12.2.</note>
+                        <pb facs="tcp:18276:20"/> 
+                        <hi>of our faith. As alſo it is hee by whom wee be<g ref="char:EOLhyphen"/>leeue in God,</hi>
+                        <note place="margin">1 Pet. 1.21.</note> 
+                        <hi>who raiſed him from the dead.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>18 <hi>Impenitency.</hi>
+                     </head>
+                     <p>
+                        <hi>But I haue an heart (the Lord knowes) which cannot repent.</hi>
+                        <note place="margin">Rom. 2.5.</note> 
+                        <hi>Who ſhall giue mee that repentance vnto ſalua<g ref="char:EOLhyphen"/>tion,</hi>
+                        <note place="margin">2 Cor. 7.11.</note> 
+                        <hi>neuer to bee repen<g ref="char:EOLhyphen"/>ted of?</hi>
+                     </p>
+                     <p>None but Chriſt, for to this end hath God exalted him a prince and a Sauiour,<note place="margin">Act. 5.31.</note> to giue repen<g ref="char:EOLhyphen"/>tance to Iſraell, and for<g ref="char:EOLhyphen"/>giueneſſe of ſinnes. See 2 Tim. 2.25.</p>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>19</hi> Hardneſſe of heart.</head>
+                     <p>
+                        <note place="margin">Zach. 7.12.</note>
+                        <hi>Oh but I haue an heart
+<pb facs="tcp:18276:20"/> hard as the adamant ſtone: who can ſoften it?</hi>
+                     </p>
+                     <p>None but Chriſt,<note place="margin">Ezek. 11.19 &amp; chap. 36.26.</note> in whom this faithfull pro<g ref="char:EOLhyphen"/>miſe ſhall euer be yea, &amp; Amen, namely, that God will take away thy ſtony heart out of thy fleſh, and in ſtead thereof will giue thee an hart of fleſh. Soake thy hart thorowly in this free and precious promiſe, and expect the fruit with patience.</p>
+                  </div>
+                  <div type="part">
+                     <head>20 <hi>Infirmity.</hi>
+                     </head>
+                     <p>
+                        <hi>Much corruption will cleaue ſtill euen to my beſt actions:</hi>
+                        <note n="*" place="margin">Rom. 7.21.</note> 
+                        <hi>In whom may I find the remedy of this?</hi>
+                     </p>
+                     <p>
+                        <note n="*" place="margin">1 Tim. 2.5 1 Ioh. 2.2.</note>In none but in Chriſt,
+<pb facs="tcp:18276:21"/> who not onely recon<g ref="char:EOLhyphen"/>ciles the iniquitie euen of thy holy offerings,<note place="margin">Exo. 28.38. Leu. 16.33.</note> but hath (for thee) brought in alſo<note n="a" place="margin">To make both thy per<g ref="char:EOLunhyphen"/>ſon &amp; Acti<g ref="char:EOLhyphen"/>ons for euer acceptable before God.</note> euerla<g ref="char:EOLhyphen"/>ſting righteouſnes, Dan. 9.24. See 1 Cor. 1.30. 2 Cor. 5.21.</p>
+                  </div>
+                  <div type="part">
+                     <head>21 <hi>Doubtings.</hi>
+                     </head>
+                     <p>
+                        <hi>But</hi>
+                        <note n="b" place="margin">Pſ. 88 15 Iam. 1.2.</note> 
+                        <hi>new feares and doub<g ref="char:EOLhyphen"/>tings through diuers temp<g ref="char:EOLhyphen"/>tations, ariſing through</hi>
+                        <note n="c" place="margin">Iob. 2.3.</note> 
+                        <hi>Sathans malice, ſhall ne<g ref="char:EOLhyphen"/>uer bee wanting</hi>
+                        <note n="d" place="margin">Iob 7.13.15.</note> 
+                        <hi>daily to vex and</hi>
+                        <note n="e" place="margin">Pſal. 42.5.11.</note> 
+                        <hi>diſquiet me: alas who ſhall ſupport mee vnder ſo manifold and different trials?</hi>
+                     </p>
+                     <p>None but Chriſt, who in that he ſuffered and<note place="margin">Heb. 2.18. &amp; 4.15.16. &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.25.</note>
+                        <pb facs="tcp:18276:21"/> was tempted, not onely is able ſufficiently to ſuc<g ref="char:EOLhyphen"/>cour thee in all thy temp<g ref="char:EOLhyphen"/>tations,<note place="margin">Heb. 2.18. ch. 4.15.16</note> 
+                        <note place="margin">Pſa. 34.19.</note> but in the end alſo to free thee out of them all, 2 Pet. 2.9.</p>
+                  </div>
+                  <div type="part">
+                     <head>22 <hi>Acceſſe.</hi>
+                     </head>
+                     <p>
+                        <hi>Oftentimes when I pray, it ſeemes that God ſhuts his Mercy-gate both againſt mee and my prayers;</hi>
+                        <note place="margin">Lam. 3.8.</note> 
+                        <hi>who ſhall giue me acceſſe to the throne of Grace?</hi>
+                     </p>
+                     <p>None but Chriſt thy onely mediator,<note place="margin">1 Ioh. 2.2. 1 Tim. 2.5.</note> who by the vaile of his fleſh, ha<g ref="char:EOLhyphen"/>uing made thee a new and liuing way into the holy place,<note place="margin">Heb. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.19, 20.</note> ſits at the right hand of God the<note place="margin">Rom. 8.34.</note>
+                        <pb facs="tcp:18276:22"/> Father,<note place="margin">Rom. 8.24.</note> making requeſt for thee, ſo as in ſtead of fearing to haue free ac<g ref="char:EOLhyphen"/>ceſſe; thou maieſt with reuerence be bold to goe to the Throne of grace,<note place="margin">Heb 4.16.</note> with confidence to haue all thy lawfull ſuits gran<g ref="char:EOLhyphen"/>ted,<note place="margin">Heb. 10 19.</note> for thy Mediators ſake,<note place="margin">1 Ioh. 5.14.</note> Ioh. 14.13.</p>
+                  </div>
+                  <div type="part">
+                     <head>23 <hi>Conſcience.</hi>
+                     </head>
+                     <p>
+                        <hi>But for all this, I yet feele ſecret griping of conſcience, continually affrighting me with a world of accuſing thoughts:</hi>
+                        <note place="margin">Rom. 2.15</note> 
+                        <hi>who now ſhal, be as able, ſo willingly, to appeaſe and quiet them?</hi>
+                     </p>
+                     <p>None but Chriſt, who being ſtiled the Prince of<note place="margin">Iſai. 9.6.</note>
+                        <pb facs="tcp:18276:22"/> peace, and therefore our peace-maker in heauen and in earth;<note place="margin">Luk. 19.38. and 2.14.</note> became firſt in his own perſon a prea<g ref="char:EOLhyphen"/>cher and publiſher of peace both to them that were affarre off:<note place="margin">Act. 10.36.</note> 
+                        <note place="margin">Ephe. 2.13.14.</note> and to them that were neer, yea and as if that had beene to little; did at the laſt by the blood of his Croſſe purchaſe for thee that peace of conſcience which paſſeth all vnder<g ref="char:EOLhyphen"/>ſtanding,<note place="margin">Col. 1.20.2</note> 
+                        <note place="margin">Act. 20.28.</note> of which that none might depriue or ſtrip thee off:<note place="margin">Ioh. 14.27 &amp; 16.33.</note> Looke in<g ref="char:EOLhyphen"/>to his laſt Will and Te<g ref="char:EOLhyphen"/>ſtament, where thou haſt this legacy by him<g ref="char:EOLhyphen"/>ſelfe
+<pb facs="tcp:18276:23"/> bequeathed thee to haue and to hold as thine owne for euer. There<g ref="char:EOLhyphen"/>fore now comfort thy ſelfe with theſe words.</p>
+                     <div type="section">
+                        <head>¶</head>
+                        <p>Here the afflicted be<g ref="char:EOLhyphen"/>gan a little to pauſe: and hauing receiued much refreſhing, and good ſa<g ref="char:EOLhyphen"/>tisfaction from thoſe ſe<g ref="char:EOLhyphen"/>uerall anſwers which <hi>a good conſcience</hi> hitherto framed to his ſeuerall demands and doubtings:<note place="margin">
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Pet. 3.21.</note> ceaſed from further ob<g ref="char:EOLhyphen"/>iectings: and began thus to be a little cheared and reuiued.</p>
+                        <p>
+                           <hi>Well, then I finde and
+<pb facs="tcp:18276:23"/> feele, to my no litle ioy, and contentment, that there is</hi> None indeed but Chriſt (in heauen or earth) <hi>according as thou (O good conſcience haſt ſtill affirmed) that can fully ſet mee (a poore captiue) free from my fearefull downfall and miſery,</hi> Mat. 1.21.<note place="margin">Pſal. 73.25.</note> 
+                           <note place="margin">1 Pet. 3.21</note> 
+                           <note place="margin">Luk. 4.18. 1 Tim. 1.15.</note>
+                        </p>
+                        <p>And then, after ſome further pantings, and breathings (faith hauing put, as it were, a new life into him) he brake foorth into this pasſi<g ref="char:EOLhyphen"/>on,<note place="margin">2 Cor. 4.13.</note> of admiration and thankfulneſſe.</p>
+                        <p>
+                           <hi>And it is true indeed, O thou louer of men!</hi>
+                           <note place="margin">Pro. 8.31. Iob. 7.20.</note> 
+                           <hi>O
+<pb facs="tcp:18276:24"/> thou preſeruer of men!</hi>
+                           <note place="margin">
+                              <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>b 7.20</note> 
+                           <hi>that thou hast ſet thine eyes, and thy heart vpon ſuch an one?</hi>
+                        </p>
+                        <p>
+                           <note place="margin">Iob. 14.3. &amp; 7.17.</note>
+                           <hi>Was thy loue to mee ſo ardent, and thy compaſsion ſo exceeding abundant, that from thy ſeat of Maieſty and glory,</hi>
+                           <note place="margin">
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>oh. 17.5. Pro. 8.22.</note> 
+                           <hi>thou wouldeſt for my ſake, bow the heauens, yea, (after a ſort) euen thence,</hi>
+                           <note place="margin">Iſai. 64.1.</note> 
+                           <hi>break thorow (the fulneſſe of time being come) in thine owne perſon to viſit me;</hi>
+                           <note place="margin">Gal. 4.4.</note> 
+                           <note place="margin">Luk 1.78.</note> 
+                           <hi>and to expoſe thine holy ſelfe to ſhame,</hi>
+                           <note place="margin">Iſai 50.6. Luk. 22.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>4. Ioh. 19.34</note> 
+                           <hi>and ſpitting, to ſwea<g ref="char:EOLhyphen"/>ting, blee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ing; and laſt of all to dying, that thou mighteſt preſerue ſuch an one as I, from euerlaſtingly
+<pb facs="tcp:18276:24"/> periſhing?</hi> Ioh. 3.14, 15. <hi>Lord,</hi>
+                           <note place="margin">Pſal. 116.1.</note> 
+                           <hi>that I knew what (by way way of thankeful<g ref="char:EOLhyphen"/>neſſe) now to render thee!</hi>
+                        </p>
+                        <p>
+                           <hi>Thou farre excelleſt a<g ref="char:EOLhyphen"/>boue all the praiſe,</hi>
+                           <note place="margin">Nehe. 9.5. Pſal. 106.2.</note> 
+                           <hi>that a poore creature on earth can giue thee. And yet, for as much as thou haſt ſaid, that who ſo offereth thee praiſe, glorifieth thee.</hi>
+                           <note place="margin">Pſal. 50.23</note>
+                        </p>
+                        <p>
+                           <hi>O let my poore ſoule, (which from deadly thrall thou haſt redeemed) mag<g ref="char:EOLhyphen"/>nifie thee.</hi>
+                           <note place="margin">Luke 1.46, 47. Pſal. 103.5.</note>
+                        </p>
+                        <p>
+                           <hi>Let my ſpirit alſo (which by the ſauour of thy good oitnments thou haſt ſo chee<g ref="char:EOLhyphen"/>red and reuiued) reioyce,</hi>
+                           <note place="margin">Cant. 1.2.</note> 
+                           <note place="margin">Iſa. 61.10.</note> 
+                           <hi>and alwaies make her ſongs
+<pb facs="tcp:18276:25"/> of thee. Let my tongue, mouth,</hi>
+                           <note place="margin">Iſai. 45.23.</note> 
+                           <hi>and vncircumciſed lips confeſſe thee.</hi>
+                        </p>
+                        <p>
+                           <hi>Sweetly (O Lord Ieſus) haſt thou,</hi>
+                           <note place="margin">Cant. 1.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</note> 
+                           <hi>with the kiſſes of thy mouth kiſſed me; there<g ref="char:EOLhyphen"/>fore ſhall my knees euer bee bowed vnto thee.</hi>
+                           <note place="margin">Phil 2.9.10.</note>
+                        </p>
+                        <p>
+                           <note place="margin">Pſal. 119.106. Tit. 2.14. Rom. 12.1. 2 Cor. 7.1.</note>
+                           <hi>Yet I haue ſworne, and will alſo performe it, that my ſelfe, ſoule, body, life, liberty, &amp;c. and all, ſhall (thy grace aſsiſting) be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> vowed and conſecrated to thy honor and glory,</hi> 1 Cor. 10.31. <hi>For thou Lord art holy,</hi>
+                           <note place="margin">Iſai. 57.15.</note> 
+                           <hi>&amp; inhabiteſt the eter<g ref="char:EOLhyphen"/>nity; and yet dwelleſt with the contrite and humble ſpi<g ref="char:EOLhyphen"/>rit, and with ſuch an one as
+<pb facs="tcp:18276:25"/> trembleth at thy word. So as in mee (ſweet Lord) is now fulfilled the ſaying that is written, the ſacri<g ref="char:EOLhyphen"/>fices of a contrite ſpirit and a broken heart thou neither haſt nor neuer wilt deſpiſe.</hi>
+                           <note place="margin">Pſal. 51.17.</note>
+                        </p>
+                        <p>
+                           <hi>Well may I now ſay, that thy name to mee (a deſolate wretch) hath beene as an ointment poured out;</hi>
+                           <note place="margin">Cant. 1.3.</note> 
+                           <hi>and therefore hath thy ſeruant out of the abundance of his heart, found in his heart; after this ſort,</hi>
+                           <note place="margin">2 Sam. 7.27.</note> 
+                           <hi>to expreſſe and poure forth the loue and thankefulneſſe of his ſoule,</hi>
+                           <note place="margin">Luk. 7.47.</note> 
+                           <hi>vnto thee.</hi>
+                        </p>
+                        <p>To thee therefore O Father of mercies, and
+<pb facs="tcp:18276:26"/> God of all comfort and conſolation,<note place="margin">2 Cor. 1.3.</note> who haſt ſo loued mee vnworthy,<note place="margin">Ioh. 3.16. &amp; 1.18.</note> as out of thine owne bo<g ref="char:EOLhyphen"/>ſome to ſend thy onely begotten Sonne, for mee and all mankinde loſt, in<g ref="char:EOLhyphen"/>to the world,<note place="margin">Gal. 4.4.</note> made of a woman, that thus hee might become our true and very <hi>Immanuel,</hi> Mat. 1.23.</p>
+                        <p>And to thee O Lord Ieſus Chriſt,<note place="margin">Ioh. 10.18.</note> who vo<g ref="char:EOLhyphen"/>luntatily laideſt downe thy life for mee to pre<g ref="char:EOLhyphen"/>ſerue mee from eternall death.</p>
+                        <p>And to thee alſo O holy Spirit, by whoſe
+<pb facs="tcp:18276:26"/> diuine light my blinde eyes haue beene illumi<g ref="char:EOLhyphen"/>nated to ſee (as by the Law,<note place="margin">Eph. 1.17, 18.</note> 
+                           <note place="margin">Rom. 3.23. 1 Ioh. 3.1. Epheſ. 2.4. &amp; 3.19.</note> my wofull miſery) ſo comfortably by the Goſpell, to behold this ſuperexcellent, and ſur<g ref="char:EOLhyphen"/>paſſing loue and mercie of the Father, and the Sonne; and thereto haſt wrought that wonder<g ref="char:EOLhyphen"/>full grace of Faith in my heart,<note place="margin">Rom. 10.17</note> to beleeue that all this loue is and hath bin extended to me as wel as to any other,<note place="margin">Gal. 2.20.</note> yea that it hath bin by thee, O bleſ<g ref="char:EOLhyphen"/>ſed Spirit ſhed abroad abundantly in my heart,<note place="margin">Rom. 5.5.</note> and haſt ſo ſealed mee vp
+<pb facs="tcp:18276:27"/> to the day of rede<g ref="char:cmbAbbrStroke">̄</g>ption, that I ſhall not ſo vncom<g ref="char:EOLhyphen"/>fortably,<note place="margin">Ephe. 1.13. &amp; 4.30.</note> as formerly I haue done, call into que<g ref="char:EOLhyphen"/>ſtion the certainty and aſſurance of my free a<g ref="char:EOLhyphen"/>doption.<note place="margin">Gal. 4.6.</note>
+                        </p>
+                        <p>To Father, Sonne, and holy Ghoſt (I ſay) one diuine Eſſence, three di<g ref="char:EOLhyphen"/>ſtinct perſons, be aſcri<g ref="char:EOLhyphen"/>bed in heauen and earth, by Angels and men, as is moſt due, all wiſedome. power, praiſe, and glory, eternally, Amen, and Amen.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:18276:27"/>
+                  <head>A NECESSARIE aduertiſement to <hi>the Reader.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">A</seg>S it is an infal<g ref="char:EOLhyphen"/>lible truth, that neither a mans perſon,<note place="margin">Gen 4.4. Rom 8.8. Heb. 11.4. Ioh. 14.6.</note> nor acti<g ref="char:EOLhyphen"/>ons, can pleaſe God, till himſelfe be in Chriſt; ſo it is as true,<note place="margin">2 Cor. 3.5.</note> that a man hath neither ability of himſelfe to doe good, or abſtaine from euill a<g ref="char:EOLhyphen"/>right, vnleſſe hee be aſ<g ref="char:EOLhyphen"/>ſiſted by the power of Chriſt: and this appea<g ref="char:EOLhyphen"/>reth, both by the teſti<g ref="char:EOLhyphen"/>mony of Chriſt himſelf,
+<pb facs="tcp:18276:28"/> Ioh. 15.5. For <hi>without me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> yee can doe nothing;</hi> (as alſo by the teſtimony of <hi>Paul,</hi> who ſaith, <hi>that by the power of Chriſt, he was a<g ref="char:EOLhyphen"/>ble to doe all things,</hi> Phil 4.13. Implying (accor<g ref="char:EOLhyphen"/>ding to that place of <hi>Iohn</hi>) that without Chriſts power,<note place="margin">Ioh. 15.5.</note> he could doe nothing.</p>
+                  <p>Doth the power and ſtrength of corruption then any way annoy thee,<note place="margin">Rom. 7.23.</note> and wouldeſt thou faine get the maſterie ouer the ſame? flie then foorthwith out of thy ſelfe, and get thee direct<g ref="char:EOLunhyphen"/>ly vnto Chriſt,<note place="margin">Rom. 7.24, 25.</note> and ſay
+<pb facs="tcp:18276:28"/> thus vnto him; Lord, thou biddeſt mee morti<g ref="char:EOLunhyphen"/>fie al inordinate luſts and affections, as wrath,<note place="margin">Col. 3.5.</note> vn<g ref="char:EOLhyphen"/>cleannes, couetouſneſſe, &amp;c. But thou knoweſt there is no ſtrength in me to mortifie theſe, nor any corruption of nature beſides,<note place="margin">See 2 C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. 20.12.</note> further foorth than I haue aſſiſtance from thee:<note place="margin">Phil. 4.13. &amp; 2.13. Rom. 6.6.</note> apply there<g ref="char:EOLhyphen"/>fore to this viciouſneſſe of my ſinfull nature, the vertue of thy precious death and buriall, by the worke of thy holy ſpirit,<note place="margin">Rom. 8.13.</note> which alone is able to kill ſinne in me, that ſin and corruption (of what
+<pb facs="tcp:18276:29"/> nature ſoeuer) may not as heeretofore rule nor raigne ouer me,<note place="margin">Rom. 6.12.</note> but that wageing battaile ſtill by thy ſtre<g ref="char:cmbAbbrStroke">̄</g>gth ther-againſt, I may yet therein haue peace,<note place="margin">1 Ioh. 5.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.5</note> and expect the full victory, in the time thou haſt appointed.</p>
+                  <p>Alſo, wouldeſt thou heare, reade, meditate, or pray profitably; thinke how inſufficient thou art,<note place="margin">2 Cor. 3.5.</note> as of thy ſelfe, to per<g ref="char:EOLhyphen"/>forme theſe holy exerci<g ref="char:EOLunhyphen"/>ſes, or any the like, with out<note n="a" place="margin">Whoſe pow<g ref="char:EOLunhyphen"/>er, in this caſe, muſt be perfected in thy weak<g ref="char:EOLunhyphen"/>neſſe, or it will not be. <hi>2 Cor. 12.9.</hi>
+                     </note> Chriſt; but haſten immediately to him, and ſay, It is meet (Lord) that I doe theſe duties at
+<pb facs="tcp:18276:29"/> thy command,<note place="margin">Iſai. 55 3. Reu. 1.3. 1 The. 5.17</note> for in mercy thou haſt appoin<g ref="char:EOLhyphen"/>ted them for my good: but without thee,<note place="margin">Ioh. 15.5</note> thou knoweſt I can doe no<g ref="char:EOLhyphen"/>thing: Oh let me there<g ref="char:EOLhyphen"/>fore feele power and ver<g ref="char:EOLhyphen"/>tue (by the worke of thy ſpirit) as from thy death to mortifie and kill all ſinne in me,<note place="margin">Rom 6.5.6 Col. 2 12.</note> ſo from thy reſurrection, both to quicken and enable mee aright to performe all ſuch duties as thou re<g ref="char:EOLhyphen"/>quireſt of mee, that the power of effecting all good, may alwaies be of thee, and not from mee, 2 Cor. 4.7.</p>
+                  <pb facs="tcp:18276:30"/>
+                  <p>And yet euen in this re<g ref="char:EOLhyphen"/>gard thou requireſt of mee as in other things, that as a poore fraile veſ<g ref="char:EOLhyphen"/>ſſell I ſhould put foorth all the powers of body and ſoule,<note place="margin">Eccle. 9.10 2 Cor. 7.1. 2 Pet. 1.2.10. Mat. 25 14. 10 30.</note> wherewith thou haſt endowed me; the better heereby to ſerue thy diuine proui<g ref="char:EOLhyphen"/>dence. Phil. 2.12, 13.</p>
+                  <p>Now (good Reader) if thou approueſt of this aduertiſement in thy iudgement, I pray thee giue thy diligence to bring it by degrees but vnto a daily practiſe (for thou ſhalt haue need of it daily) and by goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:18276:30"/> experience, thou ſhalt in the end finde, I hope, that the gaine will counteruaile the paine.<note place="margin">1 Cor. 15.58. Gal. 6.9.</note>
+                  </p>
+                  <div type="part">
+                     <pb facs="tcp:18276:31"/>
+                     <head>HEREVNTO IS added, three ſteps to <hi>ſound conuerſion.</hi>
+                     </head>
+                     <div type="section">
+                        <head>1</head>
+                        <p>
+                           <note place="margin">Act. 26.17.18.</note>FIrſt, God by his word and ſpirit, enlighte<g ref="char:EOLhyphen"/>neth the vnderſtanding of a ſinner truely to con<g ref="char:EOLhyphen"/>ceiue the doctrine of mans miſery, and of his full recouery by Chriſt.</p>
+                     </div>
+                     <div type="section">
+                        <head>2</head>
+                        <p>Secondly, by the ſame meanes he workes in his heart both ſuch ſound ſorrow for his mi<g ref="char:EOLhyphen"/>ſery, and feruent deſire after Chriſt the remedy,<note place="margin">Act. 2.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>7.</note>
+                           <pb facs="tcp:18276:31"/> that hee can neuer be at quiet, till hee enioy Chriſt.</p>
+                     </div>
+                     <div type="section">
+                        <head>3</head>
+                        <p>Thirdly, GOD ſo manifeſteth his loue in freely offering Chriſt with all his benefits,<note place="margin">Ioh. 3.16.</note> vn<g ref="char:EOLhyphen"/>to him a poore ſinner loſt, that thereby hee drawes him in ſuch wiſe to giue credit vnto God heerein, that hee gladly accepts of Chriſt offered vnto him.</p>
+                        <p>Theſe three workes of God, whoſoeuer finds to haue bin truly wrought in himſelfe; may there<g ref="char:EOLhyphen"/>by know certainly,<note place="margin">1 Ioh. 5.10</note> that
+<pb facs="tcp:18276:32"/> hee hath true faith,<note place="margin">Act. 15.9.</note> and therefore ſound conuer<g ref="char:EOLhyphen"/>ſion.</p>
+                        <p>Now hauing obtained this mercy at the hands of Almighty God for the merit of Chriſt;<note place="margin">Col. 1.12. Epheſ. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.5. Luke 1.74.</note> hee ought in thankefulneſſe to him therefore endea<g ref="char:EOLhyphen"/>uour daily euer after,<note place="margin">Tit. 2.11, 12.</note> in his whole conuerſation, to expreſſe and ſhew forth the vertues of him that hath thus called him out of darkneſſe,<note place="margin">2 Pet. 2.9.</note> into his maruellous light.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:18276:32"/>
+                  <head>THE SECOND PART: <hi>CONTAINING</hi> A PASSIONATE Prayer to Chriſt: With his gracious an<g ref="char:EOLhyphen"/>ſwer thereto.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>ISAI. 65.24.</hi>
+                        </bibl>
+                        <p>Before they call, I will an<g ref="char:EOLhyphen"/>ſwere.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">O</seg> Chriſt, who art my Lord, and my God:<note place="margin">Ioh. 20.28.</note> thou who art
+<pb facs="tcp:18276:33"/> the promiſed ſeed, <hi>Gen.</hi> 3.15.<note place="margin">Gen. 22.18</note> in whom all the Nations of the earth ſhould be bleſſed:<note place="margin">Mich. 5.2</note> thou, whoſe goings forth haue beene of old from euer<g ref="char:EOLhyphen"/>laſting:<note place="margin">Ier. 23.6.</note> Thou, who art called the Lord our righ<g ref="char:EOLhyphen"/>teouſneſſe, and Sonne of righteouſneſſe, <hi>Mal.</hi> 4.2. and art worthily ſtiled. Wonderful,<note place="margin">Iſai 9.6.</note> Counſellor, The mighty God, the euerlaſting Father, the Prince of Peace. Thou in whom the Father is well pleaſed:<note place="margin">Mat. 3.17.</note> and in whom his ſoule deligh<g ref="char:EOLhyphen"/>teth:<note place="margin">Iſai. 42.1.</note> Thou who art the bleſſed,<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Tim. 6.15.</note> and only Poten<g ref="char:EOLhyphen"/>tate,
+<pb facs="tcp:18276:33"/> the King of Kings, &amp; Lord of Lords, Thou who art the Prince of life, Act. 3.15.<note place="margin">1 Cor 2.8.</note> and Lord of Glory: who art ſa<g ref="char:EOLhyphen"/>ued thy ſelfe, <hi>Zache.</hi> 9.9. and art mighty to ſaue. <hi>Iſai.</hi> 63.1. O thou who, who art white and rud<g ref="char:EOLhyphen"/>die,<note place="margin">Cant. 5.10.</note> the faireſt among ten thouſand: who art that Immanuel, euen God with vs, Iſai. 7.14. who art giuen to mee,<note place="margin">Iſai. 9.6.</note> wert borne for me: who haſt loued mee,<note place="margin">Gal 1 20.</note> and gi<g ref="char:EOLhyphen"/>uen thy ſelfe for me. Oh when wilt thou draw mee,<note place="margin">Cant. 1.4.</note> that I may runne after thee? When ſhall I
+<pb facs="tcp:18276:34"/> ſee thee?<note place="margin">Iſai 64.1. Ioh. 14.23.</note> Oh when wilt thou come vnto mee; abide,<note place="margin">Ver. 21.</note> and ſhew thine owne ſelfe vnto mee? When O good Chriſt, wilt thou giue mee an heart to know thee?<note place="margin">Ier. 24.17.</note> Oh that thou wouldeſt once circumciſe mine heart to loue thee,<note place="margin">Deut. 30.6.</note> that in loue it might euer and in all things,<note place="margin">1 The. 5.18</note> be praiſing of thee! When ſhall I feele thee,<note place="margin">Col. 3.11.</note> to bee all in all vnto mee? my Huſ<g ref="char:EOLhyphen"/>band, <hi>Hoſea.</hi> 2.19. my Head, <hi>Epheſ.</hi> 5.23. my Surety, <hi>Heb.</hi> 7.22. my Sauiour, <hi>Luke</hi> 1.47. my light, <hi>Iohn</hi> 8.12. and
+<pb facs="tcp:18276:34"/> my life? <hi>Col.</hi> 3.4. Shall I neuer haue an heart to beleeue in thee,<note place="margin">Ro. 10.10.</note> and as to loue,<note place="margin">2 Tim. 4.8.</note> ſo to looke and long for thy bleſſed ap<g ref="char:EOLhyphen"/>pearing? 2 <hi>Pet.</hi> 3.12.<note place="margin">Col. 2.3.</note> In thee, Lord, are hid, all the treaſures of wiſe<g ref="char:EOLhyphen"/>dome, and knowledge. When ſhall I feele thee to be to mee, as thou art to all thine,<note place="margin">1 Cor. 1.30</note> my wiſe<g ref="char:EOLhyphen"/>dome, righteouſneſſe, ſanctification and re<g ref="char:EOLhyphen"/>demption? It pleaſed the Father, that in thee,<note place="margin">Col. 1.19.</note> my Lord and my God, ſhould all fulneſſe dwell: Oh when wilt thou then, fill me with all ioy
+<pb facs="tcp:18276:35"/> and peace in beleeuing?<note place="margin">Rom. 15.13</note> Thou relleſt mee Lord, that all power is giuen thee in heauen and in earth.<note place="margin">Mat. 8.18.</note> Oh that thou then wouldeſt giue mee ſuch a powerfull faith,<note place="margin">2 Theſ. 1.11</note> as by deriuing and drawing vertue from thee, might bee of power to purifie my heart to worke by loue,<note place="margin">Act. 15.9. Gal. 5.6.</note> and to ouercome the world, 1 <hi>Ioh.</hi> 5.4. When ſhall I feele thee my Lord and my God; dwelling in my heart by faith?<note place="margin">Epheſ. 3.17.</note> Then ſhould I hate the euill and loue the good.<note place="margin">Amos 5.15.</note> Then ſhould I feare thee for thy good<g ref="char:EOLhyphen"/>neſſe,<note place="margin">Hoſ. 3.5.</note>
+                     <pb facs="tcp:18276:35"/> and ſing aloud of thy righteouſneſſe.<note place="margin">Pſal. 145.7.</note> Then ſhould I not ſuffer ſinne ſo to raigne in my mor<g ref="char:EOLhyphen"/>tall body,<note place="margin">Rom. 6.12.</note> that at any time I ſhould obey it in the luſts thereof. Then ſhould I lament, that I can lament no more the ſelfe-loue, diffidence,<note place="margin">Ier. 31.18.</note> and impenitency, of my ſelf-louing, vnbeleeuing,<note place="margin">Heb. 3.12.</note> and impenitent heart, <hi>Rom.</hi> 2.5. Thou Lord haſt done,<note place="margin">Iſai. 26.12.</note> and yet doeſt all my workes in mee, and for me. Giue me then,<note place="margin">Rom. 8.26.</note> the ſpirit of Prayer, of pow<g ref="char:EOLhyphen"/>er, of loue,<note place="margin">2 Tim 1.1.7</note> and of a ſound minde: Euen the
+<pb facs="tcp:18276:36"/> Spirit of Adoption,<note place="margin">Rom. 8.15.</note> by which I may cry Father,<note place="margin">Gal. 4 6. Ephe. 4.30.</note> and ſo be ſealed vp vnto the day of redemption. Thy pure and precious blood, O bleſſed Lord Ieſus, once ſhed, hath a iuſtifying, <hi>Rom.</hi> 5.9. a purifying, <hi>Heb.</hi> 9.14. and ſanctifying vertue, <hi>Heb.</hi> 12.12. By the merit ther<g ref="char:EOLhyphen"/>of then,<note place="margin">1 Theſ. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.10.</note> ſweet Lord, doe thou ſaue mee from the wrath to come. Through it purge my conſcience defiled,<note place="margin">Heb. 9.4.</note> from dead works to ſerue thee the liuing and the True God: and through it, ſo conſecrate and ſet me apart as a veſ<g ref="char:EOLhyphen"/>ſell
+<pb facs="tcp:18276:36"/> vnto honour ſancti<g ref="char:EOLhyphen"/>fied,<note place="margin">1 Tim. 2.21.</note> that it may be meet for thee my Lord and Maſters vſe, as alſo ready and prepared vnto euery good worke.<note place="margin">Tit: 3.1.</note> Giue me to be wiſe vnto that which is good,<note place="margin">Rom. 16.19</note> and ſimple con<g ref="char:EOLhyphen"/>cerning euill.<note place="margin">1 Cor. 14.20.</note> In malice giue me to be child-like; but in vnderſtanding to bee of a ripe age. And now, my Lord and my God,<note place="margin">Iſai. 66 8.</note> who is like vnto thee forgiuing iniquity, tranſgreſſion, and ſinne, <hi>Exod.</hi> 34.7. And there<g ref="char:EOLhyphen"/>fore my ſoule panteth after thee;<note place="margin">Pſal. 42.2.</note> my ſoule thir<g ref="char:EOLhyphen"/>ſteth for thee:<note place="margin">and 63 1.</note> and fleſh
+<pb facs="tcp:18276:37"/> longeth for thee in a dry and thirſty la<g ref="char:cmbAbbrStroke">̄</g>d, where no water is.<note place="margin">Pſal. 101.2 Pſal. 73.25.</note> Oh when, when wilt thou come vnto me? I haue none in heauen but thee, &amp; there is none vpon earth that I deſire beſides thee.<note place="margin">Pſal. 13.1.</note> Wilt thou, O Lord, forget mee for euer? And wilt thou he<g ref="char:cmbAbbrStroke">̄</g>ce forth ſhew mee no more fauour?<note place="margin">Pſal. 77.7.</note> 
+                     <note place="margin">Pſal. 89.47</note> Oh remember how ſhort my time is. Thou wilt at length, I know, return and reuiue me;<note place="margin">Pſal. 71.20</note> thou wilt come a<g ref="char:EOLhyphen"/>gain,<note place="margin">Pſal. 138.7.</note> and bring me from the depth of the earth. O Lambe of God, <hi>Ioh.</hi> 1.29. Sonne of God, <hi>Ioh.</hi> 3.
+<pb facs="tcp:18276:37"/> 18. O my Mercy ſeat, <hi>Exod.</hi> 25.17. my Media<g ref="char:EOLhyphen"/>tor, 1 <hi>Tim</hi> 2.5. and Ad<g ref="char:EOLhyphen"/>uocate, 1 <hi>Ioh.</hi> 2.1. When ſhall I with the reſidue of thy louers, poſſeſſe and inioy thee? How long, Lord, ſhall it bee, before with thine ele<g ref="char:EOLhyphen"/>cted &amp; betrothed Spouſe I ſhall bee able to ſay,<note place="margin">1 Pet. 2.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Hoſ. 2.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>9.</note> that thou my beloued art mine, and I thine.<note place="margin">Cant. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> Then, then ſhouldſt thou as a bundle of ſweete ſmelling Myrrh,<note place="margin">Cant. 1.13</note> lie e<g ref="char:EOLhyphen"/>uen al the night long be<g ref="char:EOLunhyphen"/>tweene my breſts, and dwel between my ſhoul<g ref="char:EOLhyphen"/>ders, <hi>Deuteronom.</hi> 32.12.
+<pb facs="tcp:18276:38"/> Thou cameſt into the world,<note place="margin">1 Tim 1.15</note> Lord, to ſaue ſin<g ref="char:EOLhyphen"/>ners: And wilt not thou ſaue me?<note place="margin">1 Ioh. 3.5.</note> Thou waſt made manifeſt, that thou migh<g ref="char:EOLunhyphen"/>teſt take away ſins: And wilt not thou, O Lambe of God, take away mine? Thou wert manifeſt to that end,<note place="margin">1 Iohn 3.8.</note> that thou migh<g ref="char:EOLunhyphen"/>teſt deſtroy the works of the Diuell: And wilt not thou Lord, now deſtroy all his workes in mee? Thou didſt in the dayes of thy fleſh once ſuffer for ſins,<note place="margin">1 Pet. 3.18</note> that thou migh<g ref="char:EOLhyphen"/>teſt bring mankind loſt vnto God: And wilt not thou, my deare Chriſt,
+<pb facs="tcp:18276:38"/> bring mee now to thy heauenly Father waſhed, <hi>Reu.</hi> 1.5. iuſtified, <hi>Rom.</hi> 5.1. reconciled, 1 <hi>Ioh.</hi> 4.10. ſanctified, 1 <hi>Corinth.</hi> 6.11. and eternally ſaued? <hi>Heb.</hi> 5.9. Yes, Lord, I beleeue it.<note place="margin">Mar. 9.24.</note> But Lord helpe thou mine vnbeliefe. I reade in the Euangeliſts how often thy compaſſions were mooued,<note place="margin">Mat. 9.30.14.14. and 15.32. Mar. 1.41. and 5.19. Luk. 7.13.</note> ouer the miſeries of men and wo<g ref="char:EOLhyphen"/>men. Are they not the ſame now, they were then? Hadſt thou com<g ref="char:EOLhyphen"/>paſſions for them, &amp; haſt thou none for me? was thy ſoule troubled for them,<note place="margin">Ioh. 12.27.</note> and not likewiſe
+<pb facs="tcp:18276:39"/> for mee? was thy ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> exceeding ſorrowful <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to death for them,<note place="margin">Mar. 14.34 Mat. 4.5.</note> &amp; wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it not ſo for mee? Didſt thou faſt,<note place="margin">Luk. 21 4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Heb. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>5.7.</note> ſwear, weepe, cry, and pray? and were not all theſe thy p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for me? Oh thou that a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> holy, harmleſſe, vndefi<g ref="char:EOLhyphen"/>led,<note place="margin">Heb. 7.25, 26.</note> ſeparate from ſin<g ref="char:EOLhyphen"/>ners, and made highe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> then the heauens; who art able to ſaue to the vttermoſt all them that come vnto God by thee how long, oh how long ſhall it be, yer I feele and finde in my ſelfe the ver<g ref="char:EOLhyphen"/>tue and efficacie (from the throne of grace) of<note place="margin">Heb. 4.14, 15, 16.</note>
+                     <pb facs="tcp:18276:39"/> thine interceſſ on for me! Which though for the preſent, I beleeue not as I ſhould, yet Lord, giue mee to beleeue it when thou wilt.<note place="margin">Pſal. 34 5.</note> Who euer tru<g ref="char:EOLhyphen"/>ſted in thee, and was a<g ref="char:EOLhyphen"/>ſhamed?<note place="margin">Pſal. 22.5.</note> who euer hoped in thee, and was con<g ref="char:EOLhyphen"/>founded?</p>
+                  <p>No, no,<note place="margin">Pſal. 22.3.</note> thou inhabiteſt the praiſes of Iſrael. It is thou, Lord,<note place="margin">Pſal. 65.2.</note> that heareſt prayer, vnto thee there<g ref="char:EOLhyphen"/>fore ſhall all fleſh come. Diddeſt not thou, my Lord and my God, in the dayes of thy fleſh, teſti<g ref="char:EOLhyphen"/>fie, that if thou wert lifted vp from the earth,<note place="margin">Ioh. 12.32, 33</note>
+                     <pb facs="tcp:18276:40"/> thou wouldeſt draw a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> men vnto thee. Oh cauſe the coards and bands of this thy infinite and ſur<g ref="char:EOLunhyphen"/>paſſing loue in dying for mee,<note place="margin">Hoſ. 11.4.</note> effectually to draw my whole ſoule and affe<g ref="char:EOLhyphen"/>ctions vnto thee. Oh when ſhal I be with thee wher thou art,<note place="margin">Ioh. 17.24.</note> that I ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſee that thy glory. In the mean while,<note place="margin">Cant. 2.5, 6</note> O my deare heauenly husband, ſtay mee with flagons, com<g ref="char:EOLhyphen"/>fort me with apples, for I am ſicke of loue. Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thy left hand bee vn<g ref="char:EOLhyphen"/>der my head, and let thy right hand imbrace mee:<note place="margin">Cant. 1.3.</note> kiſſe thou mee, O
+<pb facs="tcp:18276:40"/> my Chriſt, with the kiſ<g ref="char:EOLhyphen"/>ſes of my mouth, for thy loues are better then wine.</p>
+                  <div type="part">
+                     <pb facs="tcp:18276:41"/>
+                     <head>
+                        <hi>1 CHRIST</hi> his gracious Anſwere.</head>
+                     <p>
+                        <note place="margin">Pro. 8.17.</note>I Loue them that loue mee, and thoſe that ſeeke me early, ſhall find: whoſo findeth mee,<note place="margin">Verſ. 35.</note> fin<g ref="char:EOLhyphen"/>deth life, and ſhall ob<g ref="char:EOLhyphen"/>taine fauor of the Lord. Bee of good cheere then, thou fainting ſoule, for I haue heard thee,<note place="margin">Hoſ. 14.8.</note> and ob<g ref="char:EOLhyphen"/>ſerued thee. And though I bee the high and loftie one,<note place="margin">Iſai. 57.15.</note> that inhabiteth the eternity, whoſe Name is Holy, dwelling in the high and holy place, yet doe I alſo dwell with
+<pb facs="tcp:18276:41"/> them that are of a con<g ref="char:EOLhyphen"/>trite and humble ſpirit, to reuiue the ſpirit of the humble, and to re<g ref="char:EOLhyphen"/>uiue the heart of the con<g ref="char:EOLhyphen"/>trite ones.<note place="margin">Iſai. 30.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </note> I will be gra<g ref="char:EOLhyphen"/>cious vnto thee at the voice of thy cry, I haue heard thee, and will an<g ref="char:EOLhyphen"/>ſwer thee. Becauſe thou haſt ſet thy loue vpon me,<note place="margin">Pſal. 98.14.</note> therefore I will deli<g ref="char:EOLhyphen"/>uer thee, I will ſet thee on high, becauſe thou haſt knowne my Name. Yea, hee that loueth mee,<note place="margin">Ioh. 14.21.</note> ſhall bee alſo lo<g ref="char:EOLhyphen"/>ued of my Father, and I, according to thy re<g ref="char:EOLhyphen"/>queſt, will manifeſt mine
+<pb facs="tcp:18276:42"/> owne ſelfe vnto thee: ve<g ref="char:EOLhyphen"/>ry meet it is that all men ſhould honour the Son,<note place="margin">Iſai. 49.14.</note> euen as they honour the Father; for hee that ho<g ref="char:EOLhyphen"/>noureth not the Sonne, honoureth not the Fa<g ref="char:EOLhyphen"/>eher which ſent him, <hi>Iohn</hi> 5.23. And though to thy ſeeming, thou art now and then neglected of mee; yet can I not for<g ref="char:EOLhyphen"/>get thee ouer-long,<note place="margin">Iſai. 54.7.</note> it is but for a moment; for, for a ſmall moment haue I forſaken thee, but with euerlaſting compaſſions will I haue mercy vpon thee, ſaith the Lord thy Redeemer.<note place="margin">Pſal. 84.11.</note> I wil be both
+<pb facs="tcp:18276:42"/> Sunne and ſhield vnto thee, I will giue grace and glory; nor ſhall any good thing at any time bee wanting at all vnto thee:<note place="margin">1 Pet. 1.13.</note> onely hope to the end, for that grace which is brought vnto thee. Humble thy ſelfe daily to walke in all the exer<g ref="char:EOLhyphen"/>ciſes of piety and true charity.<note place="margin">Mich. 6.8.</note> Take vp the croſſe cheerefully which I ſhall (it may bee) daily lay vpon thee.<note place="margin">Luk. 9.13.</note> And when thou art ready to ſinke, come vnto me:<note place="margin">Mat. 14.30.</note> For I will aſſure thee on my faith full word, they ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll not for euer bee aſhamed,<note place="margin">Iſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i. 49 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>4.</note>
+                        <pb facs="tcp:18276:43"/> who haue the grace to wait for mee. Caſt not a<g ref="char:EOLhyphen"/>way then thy confidence which hath promiſe of great reward.<note place="margin">Heb. 10.35.</note> Poor ſoul, wherefore diddeſt thou doubt?<note place="margin">Mat. 14.31.</note> But I ſee thou haſt neede of patience,<note place="margin">Heb. 10.36</note> that after thou haſt en<g ref="char:EOLhyphen"/>deuoured to doe my will heere on earth, thou mighteſt receiue the promiſe.<note place="margin">Luk. 21.2.</note> By patience therefore poſſeſſe thy ſoule. I will ſtand by thee, I will neither leaue thee, nor forſake thee, <hi>Hebrewes</hi> 13.5. Thou art as deare vnto mee,<note place="margin">Zech. 2.8.</note> as the apple of mine eye.
+<pb facs="tcp:18276:43"/> Thou ſhalt bee couered in the ſhadow of mine hand. Mine Angels ſhall attend thee, <hi>Pſalm.</hi> 91.11.<note place="margin">Iſai. 51.16.</note> my grace ſhall bee ſuffi<g ref="char:EOLhyphen"/>cient for thee, my pre<g ref="char:EOLhyphen"/>ſence ſhall go with thee,<note place="margin">Exo. 33.14</note> neither ſhall my Spirit nor Word depart away from thee, <hi>Iſaiah</hi> 59.21. When thou art temp<g ref="char:EOLhyphen"/>ted, I will ſuccour thee, <hi>Hebrew.</hi> 2.18.<note place="margin">Iſai. 40.29.</note> when thou fainteſt, I will ſuſtaine thee. If thou offend a<g ref="char:EOLhyphen"/>gainſt my heauenly Fa<g ref="char:EOLhyphen"/>ther,<note place="margin">1 Ioh. 2.1. Rom. 8.34.</note> the merit of my ſatiſfaction, and inter<g ref="char:EOLhyphen"/>ceſſion ſhall euermore pleade thy cauſe at the
+<pb facs="tcp:18276:44"/> throne of grace for thee. I am returned vnto thee, <hi>Zech.</hi> 8.3. I will no more be terrible vnto thee,<note place="margin">Ier. 17.17. Iſai. 57.16.</note> for ſo the Spirit ſhould faile before me, and the ſoule which I haue made. Wherefore comfort thy ſelfe with theſe words:<note place="margin">1 Theſ 4.19.</note> Goe eat thy bread with ioy, and drinke thy wine with a merry heart,<note place="margin">Eccleſ. 9.7</note> for God now accepteth thy workes. Nor ſhall it bee long yer thou (with the reſidue of thoſe who loue and long for my appearing) enter into thy Maſters ioy,<note place="margin">Mat. 25.21.</note> where is fulneſſe of ioy, and
+<pb facs="tcp:18276:44"/> life for euermore. So ſaith <hi>Amen,</hi>
+                        <note place="margin">Reu. 3 14.</note> the faithfull and true witneſſe, <hi>Amen</hi> and <hi>Amen.</hi>
+                     </p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:18276:45"/>
+                  <pb facs="tcp:18276:45"/>
+                  <p>THE SICKE MANS <hi>A B C.</hi>
+                  </p>
+                  <p>In Queſtions and Anſwers.</p>
+                  <p>
+                     <hi>Written purpoſely for ſuch</hi> as long after a ſanctified vſe of Gods Fatherly corrections.</p>
+                  <p>With a ſhort admonition touching the heart.</p>
+                  <q>
+                     <bibl>
+                        <hi>PSAL. 94.12.</hi>
+                     </bibl>
+                     <p>Bleſſed is the man whom thou cha<g ref="char:EOLhyphen"/>ſtiſeſt. O Lord, and teacheſt him in thy Law.</p>
+                  </q>
+                  <p>LONDON Printed by <hi>Io. Beale</hi> for <hi>Na. Newbery,</hi> and are to be ſold at the Star in Popes head Alley. 1629.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:18276:46"/>
+                  <pb facs="tcp:18276:46"/>
+                  <head>To the Chriſtian Reader.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He hand of the Lord hath been long ſtretched out againſt vs in this Citie, by ſending ſundry ſorts of diſeaſes and ſickneſſes amongſt vs, where of my ſelfe of late haue had ſome experience. To ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, theſe haue prooued mortall and deadly: and this it is that hath moued mee to pen theſe few lines following. I
+<pb facs="tcp:18276:47"/> grant they are appropriated eſpeciall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the perſon of the ſicke<g ref="char:punc">▪</g> yet ſo, that the whole ſhould not be excluded from reaping benefit thereby, which if by Gods grace they attaine; th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n haue I the end of my labour. And ſo I euer reſt,</p>
+                  <closer>
+                     <signed>Thy faithfull wel<g ref="char:EOLhyphen"/>willer in Chriſt, C. C.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:18276:47"/>
+                  <head>The Sicke Mans A B C.</head>
+                  <p>Q. <hi>
+                        <seg rend="decorInit">W</seg>Hat art thou by nature?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Oh Sir, a<note n="a" place="margin">Rom. 5 12</note> 
+                     <hi>ſinner,</hi> a<note n="b" place="margin">Pſal. 51.5</note> 
+                     <hi>ſinner;</hi> a<note n="c" place="margin">Iob 40.4.</note> vile and an abominable <hi>ſinner,</hi> Iob 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.6.</p>
+                  <p>Q <hi>The ſoule that ſin<g ref="char:EOLhyphen"/>neth, muſt</hi>
+                     <note n="d" place="margin">Ezek. 18.20.</note> die. <hi>Thou know<g ref="char:EOLhyphen"/>eſt there is no eſcaping for thee.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> I will not hide my ſinne as<note n="e" place="margin">Iob 31.33</note> 
+                     <hi>Adam</hi> did, but with <hi>Dauid</hi> I will<note n="f" place="margin">Pſal. 32.5.</note> con<g ref="char:EOLhyphen"/>feſſe
+<pb facs="tcp:18276:48"/> it; and with <hi>Iob,</hi> I wil repent in duſt and aſhes for it.<note place="margin">Iob 42.6.</note>
+                  </p>
+                  <p>Q. <hi>Say thou doe ſo, thou art not ignorant, that</hi> ſinne and death <hi>will ſtill be dog<g ref="char:EOLunhyphen"/>ging of thee at the heeles?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> I doe not greatly feare what <hi>ſinne and death</hi> can doe againſt me.<note place="margin">Heb. 2.14, 15.</note>
+                  </p>
+                  <p>Q. <hi>Why, I pray thee?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe I haue to deale with a <hi>gracious</hi> God.</p>
+                  <p>Q. <hi>Who told thee that?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Exod. 34.6</note>
+                     <hi>A.</hi> Euen his owne ſelfe.</p>
+                  <p>Q. <hi>Hee is alſo a deuou<g ref="char:EOLhyphen"/>ring fier.</hi>
+                     <note place="margin">Iſai. 33.14.</note>
+                  </p>
+                  <p>
+                     <note place="margin">Heb. 10 27</note>
+                     <hi>A.</hi> Hee is ſo, but it is
+<pb facs="tcp:18276:48"/> to his enemies, and to them that periſh.</p>
+                  <p>Q. <hi>Mayſt thou not alſo periſh?</hi>
+                  </p>
+                  <p>
+                     <hi>A</hi> No, I cannot be<g ref="char:EOLhyphen"/>leeue it.</p>
+                  <p>Q. <hi>Wherefore?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe Ieſus Chriſt <hi>by his bloud,</hi> hath<note n="k" place="margin">Rom. 3.25.</note> pacified Gods anger toward mee.</p>
+                  <p>Q. <hi>How could the blood of Chriſt effect it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe hee was<note n="l" place="margin">Act. 20 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> 
+                     <hi>God</hi> that ſhed it.</p>
+                  <p>Q. <hi>But hee ſhed it not for thee?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Oh, yes, yes.<note place="margin">1 Tim. 1.15</note>
+                  </p>
+                  <p>Q. <hi>Why for thee?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe Sir, I do
+<pb facs="tcp:18276:49"/> from the very hart root,<note n="m" place="margin">Pſa. 51.2 Luk. 18.13.</note> 
+                     <hi>long</hi> after the <hi>ſauing</hi> and <hi>healing</hi> vertue of it, Eph. 1.7. 1 Iohn 1.7.</p>
+                  <p>
+                     <note place="margin">Luke 8.13.</note>Q. <hi>Poſsible this thy long<g ref="char:EOLhyphen"/>ing</hi> will not be <hi>laſting?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Yes, by Gods grace,<note place="margin">Phil. 3.12.</note> 
+                     <hi>whileſt I haue any breathing.</hi>
+                  </p>
+                  <p>Q. <hi>Well, I muſt needs thus farre (for thy com<g ref="char:EOLhyphen"/>fort) yeeld vnto thee, that Chriſt, by his</hi> death, <hi>hath giuen</hi> ſinne and death their doome; <hi>ſo as reſting vpon that thou haſt profeſ<g ref="char:EOLhyphen"/>ſed,</hi> they cannot hurt thee. <hi>But yet thou art not</hi> reſtored <hi>(for all that)</hi> in<g ref="char:EOLhyphen"/>to Gods fauour, <hi>wherein
+<pb facs="tcp:18276:49"/> alone conſiſteth life, and true happineſſe,</hi> Pſal. 30.5.</p>
+                  <p>
+                     <hi>A.</hi> I expect and looke for that, onely <hi>by his</hi>
+                     <note n="o" place="margin">2 Cor. 5.21. Rom. 8.33. and 10.4.</note> 
+                     <hi>imputing vnto me, Chriſts perfect righteouſneſſe.</hi>
+                  </p>
+                  <p>Q. <hi>Thou talkeſt of great matters; hadſt thou faith to beleeue it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi>
+                     <note n="p" place="margin">Mar. 9.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> 
+                     <hi>I beleeue:</hi> Now, Lord, helpe my vnbe<g ref="char:EOLhyphen"/>liefe.</p>
+                  <p>Q. <hi>I blame thee not in ſeeking thy</hi> Iuſtification <hi>from Chriſt but may not an hypocrite doe this as well as thou?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> I doe from my ſoule, as earneſtly long to haue him made vnto
+<pb facs="tcp:18276:50"/> me,<note n="q" place="margin">1 Cor. 1.30.</note> 
+                     <hi>Sanctification</hi> alſo. See Pſal. 51.10.</p>
+                  <p>Q. <hi>How expecteſt thou ſanctification from Chriſt?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By the worke of his <hi>Spirit,</hi> 1 Cor. 6.11.</p>
+                  <p>Q. <hi>How doth the Spi<g ref="char:EOLhyphen"/>rit effect it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By <hi>applying</hi> vnto my whole man, the pow<g ref="char:EOLhyphen"/>er of his death and re<g ref="char:EOLhyphen"/>ſurrection, Rom. 6.5, 6. by the one killing by de<g ref="char:EOLhyphen"/>grees all ſinne in me;<note place="margin">Col. 2.11, 12, 13.</note> by the other, quickning me vnto new obedience.</p>
+                  <p>Q. <hi>It ſeemes then, thou not onely beleeueſt, that Chriſt will</hi> ſaue thee from the guilt and condem<g ref="char:EOLhyphen"/>nation
+<pb facs="tcp:18276:50"/> of ſinne, but will alſo<note n="r" place="margin">Tit. 2.14.</note> deliuer thee from the power and bondage of ſinne.</p>
+                  <p>
+                     <hi>A.</hi> That is my beliefe indeed, 1 Pet. 2.9.</p>
+                  <p>Q. <hi>Thou beleeueſt tru<g ref="char:EOLhyphen"/>ly: for what God hath cou<g ref="char:EOLhyphen"/>pled together, that ought no man to put aſunder,</hi> 1 Cor. 1.30. <hi>But couldeſt thou not bee content</hi> onely to haue ſanctificatio<g ref="char:cmbAbbrStroke">̄</g> in thy toung, <hi>that thou mighteſt be able freely to talke of re<g ref="char:EOLhyphen"/>ligion?</hi> 1 Iohn 3.18.</p>
+                  <p>
+                     <hi>A.</hi> No, not ſo: <hi>let it be</hi>
+                     <note n="ſ" place="margin">1 Theſ. 5.23.</note> 
+                     <hi>thorowout,</hi> or not at all, 2 Cor. 7.1. 1 Cor. 6.20.</p>
+                  <pb facs="tcp:18276:51"/>
+                  <p>Q. <hi>Sanctification is</hi> a long way <hi>to walke in,</hi> ma<g ref="char:EOLhyphen"/>ny difficulties <hi>accompany<g ref="char:EOLhyphen"/>ing it.</hi>
+                     <note place="margin">Rom. 7.</note> 
+                     <hi>May not the te<g ref="char:EOLhyphen"/>diouſneſſe of the way cauſe thee in the end to</hi> breake off thy courſe, and final<g ref="char:EOLhyphen"/>ly to giue it ouer?</p>
+                  <p>
+                     <hi>A.</hi> I confeſſe, I finde in my ſelfe but too muc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> weakeneſſe this way; yet my ſure hope is, that he who hath begun a good worke in mee,<note place="margin">1 Theſ. 5.23, 24.</note> will not now leaue it vnperfect<g ref="char:EOLhyphen"/>ed, Phil. 1.6.</p>
+                  <p>Q. <hi>Some hauing made a long progreſſe in profeſsi<g ref="char:EOLhyphen"/>on, haue growne at the length</hi> to loath thoſe<note place="margin">2 Tim. 4.10.</note>
+                     <pb facs="tcp:18276:51"/> meanes <hi>of ſaluation, which once they ſeemed to loue; and ſo haue ſeparated the meanes from the end.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> But God by his Word and Spirit,<note place="margin">Pſal 8.4.1, 2.3, 4.</note> hath taught mee otherwiſe, Pſalme 27.4. that is, <hi>not to expect for Saluati<g ref="char:EOLhyphen"/>on from Him, as the end; without a conſtant en<g ref="char:EOLhyphen"/>deuouring to vſe all thoſe helpes,</hi>
+                     <note place="margin">Pſal. 26.8. 2 Pet. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.5. &amp; verſ 10.</note> 
+                     <hi>which he hath ſan<g ref="char:EOLhyphen"/>ctified, to leade me there<g ref="char:EOLhyphen"/>unto.</hi>
+                  </p>
+                  <p>Q. <hi>I am glad it hath been my hap, to heare theſe good things from thee; I wiſh thee therefore to be of good comfort in the Lord:
+<pb facs="tcp:18276:52"/> for, for ought I yet ſee, thou art in the way to bee ſaued. Onely a word or two, con<g ref="char:EOLhyphen"/>cerning thy</hi> preſent con<g ref="char:EOLhyphen"/>dition. <hi>How takeſt thou this thy viſitation?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> I take it as ſent vn<g ref="char:EOLhyphen"/>to mee, from the hand of a very gracious and louing Father.<note place="margin">Heb. 12.5.</note>
+                  </p>
+                  <p>Q. <hi>But commonly cala<g ref="char:EOLhyphen"/>mities in this kinde, are</hi> to<g ref="char:EOLhyphen"/>kens of Gods diſplea<g ref="char:EOLhyphen"/>ſure,<note place="margin">Lam. 3.39.</note> Leuit. 26.15.</p>
+                  <p>
+                     <hi>A.</hi> In themſelues they are ſo, lighting vpon the wicked: but I beleeue they are <hi>ſent vnto mee in fauour, and for my good.</hi>
+                  </p>
+                  <p>Q. <hi>What is the ground
+<pb facs="tcp:18276:52"/> of this thy perſwaſion?</hi>
+                  </p>
+                  <p>
+                     <hi>A. Onely the</hi>
+                     <note n="t" place="margin">Rom. 8.18.</note> 
+                     <hi>word of truth, which aſſures my conſcience through the ho<g ref="char:EOLhyphen"/>ly Ghost that it is ſo,</hi>
+                     <note place="margin">Reu. 3.19.</note> Heb. 12.5, 6.</p>
+                  <p>Q. <hi>And yet</hi> it may be long,<note place="margin">Pſal. 13.1, 2.</note> 
+                     <hi>ere God ſend deliue<g ref="char:EOLhyphen"/>rance.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Be it ſo,<note place="margin">Pſal. 62.1, 5.</note> yet I haue determined, <hi>that my ſoule ſhall waite on God, in hope and ſilence,</hi> till his appoynted time come: yea, ſo I may come better out of this affliction, than I went into it, Iob 23.10.<note n="u" place="margin">Iſai. 28.16.</note> 
+                     <hi>I ſhall not much haſten to bee freed out of it.</hi>
+                  </p>
+                  <pb facs="tcp:18276:53"/>
+                  <p>
+                     <note place="margin">Pſal. 86.17</note>Q. <hi>But if God ſhould ſhew a token of his goodneſſe vpon thee,</hi> and preſently turne thy ſickeneſſe into health?</p>
+                  <p>
+                     <hi>A.</hi> If he ſhould do ſo, <hi>my greateſt feare is, leſt I ſhould prooue vnthankfull,</hi> 2 Chron. 32.25.</p>
+                  <p>Q. <hi>On the other ſide, what if this ſickneſſe ſhould be</hi> vnto death, <hi>that is, to the ſeparating of the ſoule from the body?</hi>
+                  </p>
+                  <p>
+                     <hi>A</hi>
+                     <note n="x" place="margin">Pſal. 23.4</note> 
+                     <hi>Though I ſhould walk through the valley of the ſhaddow of death, yet would I feare none euill:</hi> See Reuel. 14.13.</p>
+                  <p>Q. <hi>Doeſt thou not ap<g ref="char:EOLhyphen"/>prehend
+<pb facs="tcp:18276:53"/> the</hi> Graue <hi>(into which thou muſt deſcend) to be</hi> an<note n="y" place="margin">Pſ. 49.14</note> yrkeſome and loathſome priſon?</p>
+                  <p>
+                     <hi>A.</hi> Yes, conſidered out of Chriſt:<note place="margin">The graue (ſaith one) ſhall not grieue me, becauſe it was my Lords bed. <hi>M<hi rend="sup">r</hi>.</hi> H.S. <hi>Pr.</hi>
+                     </note> 
+                     <hi>but looking vp<g ref="char:EOLhyphen"/>on it through his buriall</hi> (whereby he hath perfu<g ref="char:EOLhyphen"/>med it for me) <hi>it ſhall bee much ſweeter to me, than a bed of Roſes,</hi> Iſai. 57.1, 2.</p>
+                  <p>Q. <hi>Thy fleſh, it may be, ſhall</hi> lye rotting <hi>a long time in the graue?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> And yet, <hi>euen there</hi> ſhall my fleſh<note n="z" place="margin">Pſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 16.</note> reſt in hope.</p>
+                  <p>Q. <hi>Thy dead bones (ſee<g ref="char:EOLhyphen"/>ming to be neglected of God, and therefore neglect<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:18276:54"/> of men) muſt (as thou knoweſt) be regardleſly tum<g ref="char:EOLhyphen"/>bled hither and thither,</hi>
+                     <note place="margin">Pſal. 141.7.</note> 
+                     <hi>as if they were no better than vnprofitable rubbiſh?</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Pſa. 139.14 15, 16.</note>
+                     <hi>A.</hi> My God that <hi>kept a regiſter of them, before they were, wil much more be carefull of them,</hi>
+                     <note place="margin">Pſal. 34.20. Iob 19 26, 27.</note> 
+                     <hi>now they are,</hi> ſo that at the laſt day, <hi>not the ſmalleſt ſhank<g ref="char:EOLhyphen"/>bone, or piece of a ſhiuer thereof, no not the leaſt pick of duſt ſhall bee wanting,</hi> Ezech. 37.7.</p>
+                  <p>Q. <hi>What thinkeſt thou ſhall become of thy</hi> dead body <hi>in the end?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> My Lord Ieſus Chriſt (who is the reſur<g ref="char:EOLhyphen"/>rection<note place="margin">Ioh. 11.25.</note>
+                     <pb facs="tcp:18276:54"/> and the life) will (according to his faith<g ref="char:EOLhyphen"/>full word) <hi>raiſe it vp at the laſt day,</hi> Iohn 6.54.</p>
+                  <p>Q. <hi>Shall thy dead body then be</hi> onely raiſed <hi>vp at the laſt day.</hi>
+                     <note place="margin">See Mat. 27, 52, 53. Act. 3.21. See <hi>Beza</hi> Ser. vpon Mat. 27.52, 53.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No, I verily beleeue, that though <hi>this body</hi> bee turned into duſt, <hi>yet it ſhall be reunited againe to this ſoule, which now in<g ref="char:EOLhyphen"/>habiteth in it.</hi>
+                  </p>
+                  <p>Q. <hi>And ſhall this be all?</hi>
+                     <note place="margin">Iob 19.27.</note>
+                  </p>
+                  <p>
+                     <hi>A</hi> Not ſo: for being thus really vnited by the vnſpeakeable power of God,<note place="margin">Rom. 8.23.</note> 
+                     <note place="margin">1 Ioh. 3.2. Col. 3.3, 4.</note> 
+                     <hi>I ſhal ſee Chriſt</hi> com<g ref="char:EOLhyphen"/>ming in the clouds for my full redemption out
+<pb facs="tcp:18276:55"/> of all miſeries, and woe; and no ſooner ſhall I get a ſight of him, but I ſhall forthwith be changed in a moment,<note place="margin">1 Cor. 15.52.</note> and in the twinckling of an eye; af<g ref="char:EOLhyphen"/>ter which, being (with the reſt of the Saints) caught vp in the clouds to meete the Lord in the ayre,<note place="margin">1 The. 4.17</note> I ſhall thenceforth bee euer with the Lord, in whoſe preſence is the fulneſſe of ioy,<note place="margin">Pſal. 16.11.</note> and at whoſe right hand are pleaſures for euermore.</p>
+                  <div type="conclusion">
+                     <pb facs="tcp:18276:55"/>
+                     <head>Concluſion.</head>
+                     <p>BEe it vnto thee as thou haſt ſaid: and ſeeing we looke for ſuch things as theſe,<note place="margin">1 Ioh. 3.3.</note> the Lord giue thee and mee grace to bee dili<g ref="char:EOLhyphen"/>gent,<note place="margin">2 Pet. 3.14.</note> that we may be found of him in peace, without ſpot, and blameleſſe be<g ref="char:EOLhyphen"/>fore him at his com<g ref="char:EOLhyphen"/>ming, Amen, Amen.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="admonition">
+                  <pb facs="tcp:18276:56"/>
+                  <head>A SHORT AD<g ref="char:EOLhyphen"/>MONITION touching the <hi>heart.</hi>
+                  </head>
+                  <p>
+                     <note place="margin">Ier. 32.41.</note>
+                     <seg rend="decorInit">W</seg>Hatſoeuer good thing GOD be<g ref="char:EOLhyphen"/>ſtowes vpon vs, hee doeth it with his whole ſoule and heart: therefore, if thou giue any thing to God,<note place="margin">Pro. 23.26</note> giue him thine <hi>heart.</hi>
+                  </p>
+                  <p>If thou doe any thing for God,<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 21.</note> doe it with all thine <hi>heart.</hi>
+                  </p>
+                  <pb facs="tcp:18276:56"/>
+                  <p>Beleeue in him alſo with all thy <hi>heart.</hi>
+                     <note place="margin">A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</note>
+                  </p>
+                  <p>Loue him with all thy <hi>heart.</hi>
+                     <note place="margin">Gen 10 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>
+                  </p>
+                  <p>Obey him from thy <hi>heart.</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 17.</note>
+                  </p>
+                  <p>Feare him with thy <hi>heart.</hi>
+                     <note place="margin">Ier 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.40.</note>
+                  </p>
+                  <p>Seeke him with all thy <hi>heart.</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 29.13.</note>
+                  </p>
+                  <p>Turne to him with all thine <hi>heart.</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 2.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>
+                  </p>
+                  <p>Reioyce in him with thine <hi>heart.</hi>
+                     <note place="margin">Zach. 10.7.</note>
+                  </p>
+                  <p>Pray to him with thy <hi>heart.</hi>
+                     <note place="margin">Pſalm. 119.145.</note>
+                  </p>
+                  <p>And praiſe him with thy <hi>heart.</hi>
+                     <note place="margin">Pſal. 119.7.</note>
+                  </p>
+                  <p>If thou lay vp Gods Word in any place,<note place="margin">Luke 2.51.</note>
+                     <pb facs="tcp:18276:57"/> lay it vp in thy <hi>heart.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Prou. 8.23.</note>If thou bee <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>full keeper of any thing, let it bee of thine <hi>heart.</hi>
+                  </p>
+                  <p>Say not but thou haſt had warning.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:18276:57"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
